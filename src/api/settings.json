@@ -1,0 +1,8 @@
+
+{
+    "Cloud": {"IP_DNS": "34.229.137.164", 
+            "PORT": 25001, 
+            "USER": "root", 
+            "PASSWORD": "test", 
+            "DB_NAME": "australia_fires_2"}
+}
