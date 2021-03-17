@@ -1,5 +1,0 @@
-,Model,Accuracy,MAE
-0,Random Forest Regressor,88.81,1.92
-1,SVM.SVR,81.89,3.03
-2,Decision Tree Regressor,86.62,2.21
-3,Linear Regression,83.62,0.93
