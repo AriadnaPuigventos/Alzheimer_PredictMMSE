@@ -1,0 +1,2171 @@
+,Subject ID,Phase,Sex,Weight,Research Group,APOE A2,Visit,Study Date,Age,MMSE Total Score,GDSCALE Total Score,Global CDR,Description,Type,Imaging Protocol,Structure,dcm,path,arrays
+0,002_S_1070,ADNI 1,M,88.4,MCI,3,ADNI1/GO Month 24,12/11/2008,75.8,19.0,1.0,1.0,SURVEY,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_002_S_1070_MR_SURVEY_br_raw_20081212015038069_7_S60785_I130148.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/002_S_1070/SURVEY/2008-12-11_13_03_01.0/S60785/ADNI_002_S_1070_MR_SURVEY_br_raw_20081212015038069_7_S60785_I130148.dcm,"[[27 15 17 ... 13 29 40]
+ [17 11  6 ...  8  9 11]
+ [ 9 12  6 ... 12  1  1]
+ ...
+ [25 28  5 ... 11  6  3]
+ [ 2  2 14 ... 11  5  5]
+ [17 12 10 ... 25 26 23]]"
+1,002_S_1070,ADNI 1,M,88.4,MCI,3,ADNI1/GO Month 24,12/11/2008,75.8,19.0,1.0,1.0,SURVEY,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_002_S_1070_MR_SURVEY_br_raw_20081212015038377_8_S60785_I130148.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/002_S_1070/SURVEY/2008-12-11_13_03_01.0/S60785/ADNI_002_S_1070_MR_SURVEY_br_raw_20081212015038377_8_S60785_I130148.dcm,"[[29 26 12 ... 17 14 24]
+ [19 23 22 ... 27  8  6]
+ [ 1  0 10 ...  2 11  6]
+ ...
+ [ 9 10 14 ...  2  4  7]
+ [29 17  5 ... 11  2  4]
+ [25 18 15 ... 21 24 28]]"
+2,002_S_1070,ADNI 1,M,88.4,MCI,3,ADNI1/GO Month 24,12/11/2008,75.8,19.0,1.0,1.0,SURVEY,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_002_S_1070_MR_SURVEY_br_raw_20081212015038812_9_S60785_I130148.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/002_S_1070/SURVEY/2008-12-11_13_03_01.0/S60785/ADNI_002_S_1070_MR_SURVEY_br_raw_20081212015038812_9_S60785_I130148.dcm,"[[23 23 17 ... 21 20 16]
+ [12  3  8 ...  2  0  9]
+ [ 2  3 10 ...  1  6 18]
+ ...
+ [ 5  6  7 ...  8  4  2]
+ [ 3  3  4 ... 14 10  4]
+ [16 17 17 ... 20 22 18]]"
+3,009_S_1030,ADNI 2,M,66.1,MCI,3,ADNI2 Year 1 Visit,11/02/2012,73.6,20.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_1030_MR_localizer__br_raw_20150704083711130_3_S264712_I499431.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_1030/localizer/2012-11-02_14_19_34.0/S264712/ADNI_009_S_1030_MR_localizer__br_raw_20150704083711130_3_S264712_I499431.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 1 0 0]
+ [0 0 0 ... 0 1 0]
+ [0 0 0 ... 0 0 1]]"
+4,009_S_1030,ADNI 2,M,66.1,MCI,3,ADNI2 Year 1 Visit,11/02/2012,73.6,20.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_1030_MR_localizer__br_raw_20141206134238851_3_S242531_I460725.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_1030/localizer/2014-12-01_13_43_42.0/S242531/ADNI_009_S_1030_MR_localizer__br_raw_20141206134238851_3_S242531_I460725.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 1 0]]"
+5,009_S_1030,ADNI 2,M,66.1,MCI,3,ADNI2 Year 1 Visit,11/02/2012,73.6,20.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_1030_MR_localizer__br_raw_20131125072005127_3_S206656_I399388.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_1030/localizer/2013-11-19_12_52_37.0/S206656/ADNI_009_S_1030_MR_localizer__br_raw_20131125072005127_3_S206656_I399388.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+6,009_S_1030,ADNI 2,M,66.1,MCI,3,ADNI2 Year 1 Visit,11/02/2012,73.6,20.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_1030_MR_localizer__br_raw_20131125072011435_3_S206656_I399394.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_1030/localizer/2013-11-19_12_52_37.0/S206656/ADNI_009_S_1030_MR_localizer__br_raw_20131125072011435_3_S206656_I399394.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 1 ... 0 0 0]
+ ...
+ [0 0 0 ... 1 0 0]
+ [0 1 0 ... 0 0 0]
+ [0 0 0 ... 1 0 0]]"
+7,009_S_1030,ADNI 2,M,70.2,MCI,3,ADNI2 Year 2 Visit,11/19/2013,74.6,15.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_1030_MR_localizer__br_raw_20150704083711130_3_S264712_I499431.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_1030/localizer/2012-11-02_14_19_34.0/S264712/ADNI_009_S_1030_MR_localizer__br_raw_20150704083711130_3_S264712_I499431.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 1 0 0]
+ [0 0 0 ... 0 1 0]
+ [0 0 0 ... 0 0 1]]"
+8,009_S_1030,ADNI 2,M,70.2,MCI,3,ADNI2 Year 2 Visit,11/19/2013,74.6,15.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_1030_MR_localizer__br_raw_20141206134238851_3_S242531_I460725.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_1030/localizer/2014-12-01_13_43_42.0/S242531/ADNI_009_S_1030_MR_localizer__br_raw_20141206134238851_3_S242531_I460725.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 1 0]]"
+9,009_S_1030,ADNI 2,M,70.2,MCI,3,ADNI2 Year 2 Visit,11/19/2013,74.6,15.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_1030_MR_localizer__br_raw_20131125072005127_3_S206656_I399388.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_1030/localizer/2013-11-19_12_52_37.0/S206656/ADNI_009_S_1030_MR_localizer__br_raw_20131125072005127_3_S206656_I399388.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+10,009_S_1030,ADNI 2,M,70.2,MCI,3,ADNI2 Year 2 Visit,11/19/2013,74.6,15.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_1030_MR_localizer__br_raw_20131125072011435_3_S206656_I399394.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_1030/localizer/2013-11-19_12_52_37.0/S206656/ADNI_009_S_1030_MR_localizer__br_raw_20131125072011435_3_S206656_I399394.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 1 ... 0 0 0]
+ ...
+ [0 0 0 ... 1 0 0]
+ [0 1 0 ... 0 0 0]
+ [0 0 0 ... 1 0 0]]"
+11,009_S_1030,ADNI 2,M,70.2,MCI,3,ADNI2 Year 2 Visit,11/19/2013,74.6,15.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_1030_MR_localizer__br_raw_20150704083711130_3_S264712_I499431.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_1030/localizer/2012-11-02_14_19_34.0/S264712/ADNI_009_S_1030_MR_localizer__br_raw_20150704083711130_3_S264712_I499431.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 1 0 0]
+ [0 0 0 ... 0 1 0]
+ [0 0 0 ... 0 0 1]]"
+12,009_S_1030,ADNI 2,M,70.2,MCI,3,ADNI2 Year 2 Visit,11/19/2013,74.6,15.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_1030_MR_localizer__br_raw_20141206134238851_3_S242531_I460725.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_1030/localizer/2014-12-01_13_43_42.0/S242531/ADNI_009_S_1030_MR_localizer__br_raw_20141206134238851_3_S242531_I460725.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 1 0]]"
+13,009_S_1030,ADNI 2,M,70.2,MCI,3,ADNI2 Year 2 Visit,11/19/2013,74.6,15.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_1030_MR_localizer__br_raw_20131125072005127_3_S206656_I399388.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_1030/localizer/2013-11-19_12_52_37.0/S206656/ADNI_009_S_1030_MR_localizer__br_raw_20131125072005127_3_S206656_I399388.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+14,009_S_1030,ADNI 2,M,70.2,MCI,3,ADNI2 Year 2 Visit,11/19/2013,74.6,15.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_1030_MR_localizer__br_raw_20131125072011435_3_S206656_I399394.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_1030/localizer/2013-11-19_12_52_37.0/S206656/ADNI_009_S_1030_MR_localizer__br_raw_20131125072011435_3_S206656_I399394.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 1 ... 0 0 0]
+ ...
+ [0 0 0 ... 1 0 0]
+ [0 1 0 ... 0 0 0]
+ [0 0 0 ... 1 0 0]]"
+15,009_S_1030,ADNI 2,M,66.1,MCI,3,ADNI2 Year 3 Visit,12/01/2014,75.6,7.0,3.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_1030_MR_localizer__br_raw_20150704083711130_3_S264712_I499431.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_1030/localizer/2012-11-02_14_19_34.0/S264712/ADNI_009_S_1030_MR_localizer__br_raw_20150704083711130_3_S264712_I499431.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 1 0 0]
+ [0 0 0 ... 0 1 0]
+ [0 0 0 ... 0 0 1]]"
+16,009_S_1030,ADNI 2,M,66.1,MCI,3,ADNI2 Year 3 Visit,12/01/2014,75.6,7.0,3.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_1030_MR_localizer__br_raw_20141206134238851_3_S242531_I460725.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_1030/localizer/2014-12-01_13_43_42.0/S242531/ADNI_009_S_1030_MR_localizer__br_raw_20141206134238851_3_S242531_I460725.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 1 0]]"
+17,009_S_1030,ADNI 2,M,66.1,MCI,3,ADNI2 Year 3 Visit,12/01/2014,75.6,7.0,3.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_1030_MR_localizer__br_raw_20131125072005127_3_S206656_I399388.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_1030/localizer/2013-11-19_12_52_37.0/S206656/ADNI_009_S_1030_MR_localizer__br_raw_20131125072005127_3_S206656_I399388.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+18,009_S_1030,ADNI 2,M,66.1,MCI,3,ADNI2 Year 3 Visit,12/01/2014,75.6,7.0,3.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_1030_MR_localizer__br_raw_20131125072011435_3_S206656_I399394.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_1030/localizer/2013-11-19_12_52_37.0/S206656/ADNI_009_S_1030_MR_localizer__br_raw_20131125072011435_3_S206656_I399394.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 1 ... 0 0 0]
+ ...
+ [0 0 0 ... 1 0 0]
+ [0 1 0 ... 0 0 0]
+ [0 0 0 ... 1 0 0]]"
+19,009_S_5027,ADNI 2,M,86.8,AD,3,ADNI2 Year 1 Visit,1/22/2014,76.8,21.0,4.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_5027_MR_localizer__br_raw_20140123180047745_3_S211095_I406888.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_5027/localizer/2014-01-22_13_35_45.0/S211095/ADNI_009_S_5027_MR_localizer__br_raw_20140123180047745_3_S211095_I406888.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 1 ... 0 0 0]
+ [0 0 1 ... 0 1 0]]"
+20,009_S_5027,ADNI 2,M,86.8,AD,3,ADNI2 Year 1 Visit,1/22/2014,76.8,21.0,4.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_5027_MR_localizer__br_raw_20140123180131808_3_S211095_I406894.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_5027/localizer/2014-01-22_13_35_45.0/S211095/ADNI_009_S_5027_MR_localizer__br_raw_20140123180131808_3_S211095_I406894.dcm,"[[0 0 0 ... 0 0 0]
+ [0 1 1 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 1 0 ... 0 0 0]]"
+21,009_S_5027,ADNI 2,M,86.8,AD,3,ADNI2 Year 1 Visit,1/22/2014,76.8,21.0,4.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_5027_MR_localizer__br_raw_20140123180047745_3_S211095_I406888.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_5027/localizer/2014-01-22_13_35_45.0/S211095/ADNI_009_S_5027_MR_localizer__br_raw_20140123180047745_3_S211095_I406888.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 1 ... 0 0 0]
+ [0 0 1 ... 0 1 0]]"
+22,009_S_5027,ADNI 2,M,86.8,AD,3,ADNI2 Year 1 Visit,1/22/2014,76.8,21.0,4.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_5027_MR_localizer__br_raw_20140123180131808_3_S211095_I406894.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_5027/localizer/2014-01-22_13_35_45.0/S211095/ADNI_009_S_5027_MR_localizer__br_raw_20140123180131808_3_S211095_I406894.dcm,"[[0 0 0 ... 0 0 0]
+ [0 1 1 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 1 0 ... 0 0 0]]"
+23,009_S_5037,ADNI 2,M,76.4,AD,4,ADNI2 Year 1 Visit,2/11/2014,68.6,23.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_5037_MR_localizer__br_raw_20140214160506067_3_S212664_I414395.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_5037/localizer/2014-02-11_13_32_00.0/S212664/ADNI_009_S_5037_MR_localizer__br_raw_20140214160506067_3_S212664_I414395.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+24,009_S_5037,ADNI 2,M,76.4,AD,4,ADNI2 Year 1 Visit,2/11/2014,68.6,23.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_5037_MR_localizer__br_raw_20140214160726630_3_S212664_I414390.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_5037/localizer/2014-02-11_13_32_00.0/S212664/ADNI_009_S_5037_MR_localizer__br_raw_20140214160726630_3_S212664_I414390.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 1 1 ... 0 0 0]
+ ...
+ [0 0 1 ... 0 0 0]
+ [0 0 1 ... 0 1 1]
+ [0 0 0 ... 0 0 1]]"
+25,009_S_5037,ADNI 2,M,76.4,AD,4,ADNI2 Year 1 Visit,2/11/2014,68.6,23.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_5037_MR_localizer__br_raw_20140214160506067_3_S212664_I414395.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_5037/localizer/2014-02-11_13_32_00.0/S212664/ADNI_009_S_5037_MR_localizer__br_raw_20140214160506067_3_S212664_I414395.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+26,009_S_5037,ADNI 2,M,76.4,AD,4,ADNI2 Year 1 Visit,2/11/2014,68.6,23.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_009_S_5037_MR_localizer__br_raw_20140214160726630_3_S212664_I414390.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/009_S_5037/localizer/2014-02-11_13_32_00.0/S212664/ADNI_009_S_5037_MR_localizer__br_raw_20140214160726630_3_S212664_I414390.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 1 1 ... 0 0 0]
+ ...
+ [0 0 1 ... 0 0 0]
+ [0 0 1 ... 0 1 1]
+ [0 0 0 ... 0 0 1]]"
+27,011_S_0003,ADNI 1,M,76.0,AD,4,ADNI1/GO Month 24,9/12/2007,83.4,19.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_011_S_0003_MR_Localizer__br_raw_20070914085147575_3_S39297_I73251.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/011_S_0003/Localizer/2007-09-12_12_39_25.0/S39297/ADNI_011_S_0003_MR_Localizer__br_raw_20070914085147575_3_S39297_I73251.dcm,"[[0 3 3 ... 7 6 5]
+ [0 4 3 ... 6 6 6]
+ [0 4 5 ... 6 6 6]
+ ...
+ [0 4 4 ... 7 5 4]
+ [0 5 3 ... 8 6 4]
+ [0 5 3 ... 7 6 5]]"
+28,011_S_0010,ADNI 1,F,66.0,AD,4,ADNI1/GO Month 24,11/07/2007,76.0,28.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_011_S_0010_MR_Localizer__br_raw_20080220140504906_3_S45944_I91073.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/011_S_0010/Localizer/2007-11-07_12_14_44.0/S45944/ADNI_011_S_0010_MR_Localizer__br_raw_20080220140504906_3_S45944_I91073.dcm,"[[0 4 3 ... 5 3 3]
+ [0 4 4 ... 3 2 4]
+ [0 5 4 ... 2 4 5]
+ ...
+ [0 4 4 ... 6 6 5]
+ [0 4 3 ... 6 5 3]
+ [0 4 4 ... 6 4 3]]"
+29,011_S_0053,ADNI 1,M,78.0,AD,3,ADNI1/GO Month 12,11/28/2006,81.2,18.0,3.0,2.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_011_S_0053_MR_Localizer__br_raw_20061130115853302_3_S23167_I30935.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/011_S_0053/Localizer/2006-11-28_12_24_34.0/S23167/ADNI_011_S_0053_MR_Localizer__br_raw_20061130115853302_3_S23167_I30935.dcm,"[[0 5 6 ... 5 5 6]
+ [0 6 7 ... 6 5 6]
+ [0 6 7 ... 6 6 6]
+ ...
+ [0 6 7 ... 6 7 6]
+ [0 5 5 ... 6 6 5]
+ [0 4 5 ... 6 5 5]]"
+30,011_S_0053,ADNI 1,M,78.0,AD,3,ADNI1/GO Month 12,11/28/2006,81.2,18.0,3.0,2.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_011_S_0053_MR_Localizer__br_raw_20071204080326225_3_S43273_I84036.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/011_S_0053/Localizer/2007-11-29_12_22_13.0/S43273/ADNI_011_S_0053_MR_Localizer__br_raw_20071204080326225_3_S43273_I84036.dcm,"[[0 6 6 ... 4 5 4]
+ [0 5 4 ... 5 7 6]
+ [0 5 4 ... 7 7 7]
+ ...
+ [0 7 8 ... 5 6 4]
+ [0 7 6 ... 4 5 4]
+ [0 6 7 ... 3 5 4]]"
+31,011_S_0053,ADNI 1,M,79.0,AD,3,ADNI1/GO Month 24,11/29/2007,82.2,18.0,4.0,2.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_011_S_0053_MR_Localizer__br_raw_20061130115853302_3_S23167_I30935.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/011_S_0053/Localizer/2006-11-28_12_24_34.0/S23167/ADNI_011_S_0053_MR_Localizer__br_raw_20061130115853302_3_S23167_I30935.dcm,"[[0 5 6 ... 5 5 6]
+ [0 6 7 ... 6 5 6]
+ [0 6 7 ... 6 6 6]
+ ...
+ [0 6 7 ... 6 7 6]
+ [0 5 5 ... 6 6 5]
+ [0 4 5 ... 6 5 5]]"
+32,011_S_0053,ADNI 1,M,79.0,AD,3,ADNI1/GO Month 24,11/29/2007,82.2,18.0,4.0,2.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_011_S_0053_MR_Localizer__br_raw_20071204080326225_3_S43273_I84036.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/011_S_0053/Localizer/2007-11-29_12_22_13.0/S43273/ADNI_011_S_0053_MR_Localizer__br_raw_20071204080326225_3_S43273_I84036.dcm,"[[0 6 6 ... 4 5 4]
+ [0 5 4 ... 5 7 6]
+ [0 5 4 ... 7 7 7]
+ ...
+ [0 7 8 ... 5 6 4]
+ [0 7 6 ... 4 5 4]
+ [0 6 7 ... 3 5 4]]"
+33,011_S_0861,ADNI 1,M,82.5,MCI,4,ADNI1/GO Month 24,10/07/2008,89.3,20.0,4.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_011_S_0861_MR_Localizer__br_raw_20081009083942476_3_S57186_I119881.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/011_S_0861/Localizer/2008-10-07_13_03_14.0/S57186/ADNI_011_S_0861_MR_Localizer__br_raw_20081009083942476_3_S57186_I119881.dcm,"[[0 2 4 ... 5 2 4]
+ [0 2 3 ... 5 3 4]
+ [0 2 4 ... 4 4 3]
+ ...
+ [0 4 5 ... 3 3 5]
+ [0 4 5 ... 4 1 4]
+ [0 3 4 ... 4 1 4]]"
+34,011_S_1282,ADNI 1,F,54.0,MCI,3,ADNI1/GO Month 24,2/26/2009,79.2,24.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_011_S_1282_MR_Localizer__br_raw_20090424111117674_3_S63674_I137165.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/011_S_1282/Localizer/2009-02-26_11_58_37.0/S63674/ADNI_011_S_1282_MR_Localizer__br_raw_20090424111117674_3_S63674_I137165.dcm,"[[0 4 5 ... 3 2 2]
+ [0 4 5 ... 4 3 2]
+ [0 4 5 ... 4 4 3]
+ ...
+ [0 3 5 ... 3 3 4]
+ [0 4 4 ... 2 2 3]
+ [0 4 5 ... 2 2 2]]"
+35,012_S_0689,ADNI 1,M,80.3,AD,4,ADNI1/GO Month 24,7/23/2008,65.7,10.0,5.0,1.0,Survey,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_012_S_0689_MR_Survey_br_raw_20080728103343093_7_S54151_I114359.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/012_S_0689/Survey/2008-07-23_15_01_56.0/S54151/ADNI_012_S_0689_MR_Survey_br_raw_20080728103343093_7_S54151_I114359.dcm,"[[ 9  8 12 ...  9 10  8]
+ [ 3  6  6 ...  4  4  5]
+ [ 1  7  4 ...  6  0  1]
+ ...
+ [ 3  0  0 ...  5  6  3]
+ [ 5  5  7 ...  7  5  2]
+ [ 9 14 14 ...  6  4 13]]"
+36,012_S_0689,ADNI 1,M,80.3,AD,4,ADNI1/GO Month 24,7/23/2008,65.7,10.0,5.0,1.0,Survey,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_012_S_0689_MR_Survey_br_raw_20080728103343281_8_S54151_I114359.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/012_S_0689/Survey/2008-07-23_15_01_56.0/S54151/ADNI_012_S_0689_MR_Survey_br_raw_20080728103343281_8_S54151_I114359.dcm,"[[13  9  7 ...  5  8 13]
+ [ 5  4  2 ...  9  1  3]
+ [ 0  4  3 ...  4  0  3]
+ ...
+ [ 5  7  8 ...  6  3  1]
+ [ 1  6 10 ...  2  3  2]
+ [ 6  6  5 ... 13  9 10]]"
+37,012_S_0689,ADNI 1,M,80.3,AD,4,ADNI1/GO Month 24,7/23/2008,65.7,10.0,5.0,1.0,Survey,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_012_S_0689_MR_Survey_br_raw_20080728103343515_9_S54151_I114359.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/012_S_0689/Survey/2008-07-23_15_01_56.0/S54151/ADNI_012_S_0689_MR_Survey_br_raw_20080728103343515_9_S54151_I114359.dcm,"[[13 10  7 ...  5 10 19]
+ [ 0  4  7 ...  3  1  0]
+ [ 1  1  4 ...  3  7  2]
+ ...
+ [ 0  4  4 ...  1  1  1]
+ [ 3  1  5 ...  8  5  2]
+ [ 7  9  7 ...  7 14 11]]"
+38,012_S_0689,ADNI 1,M,80.3,AD,4,ADNI1/GO Month 24,7/23/2008,65.7,10.0,5.0,1.0,Survey,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_012_S_0689_MR_Survey_br_raw_20080728103158703_8_S54152_I114360.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/012_S_0689/Survey/2008-07-23_14_20_01.0/S54152/ADNI_012_S_0689_MR_Survey_br_raw_20080728103158703_8_S54152_I114360.dcm,"[[32 16 11 ... 13 12 17]
+ [13  1 10 ...  2  2 10]
+ [ 1 19 17 ...  5  6  2]
+ ...
+ [ 0  4  4 ...  5  1  3]
+ [ 6  6  1 ... 18 11 14]
+ [29 23 22 ... 28 20 15]]"
+39,012_S_0689,ADNI 1,M,80.3,AD,4,ADNI1/GO Month 24,7/23/2008,65.7,10.0,5.0,1.0,Survey,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_012_S_0689_MR_Survey_br_raw_20080728103158500_7_S54152_I114360.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/012_S_0689/Survey/2008-07-23_14_20_01.0/S54152/ADNI_012_S_0689_MR_Survey_br_raw_20080728103158500_7_S54152_I114360.dcm,"[[12 21 13 ... 17 14 18]
+ [ 5  8 10 ...  4 10 12]
+ [ 2  2 10 ...  2 16 15]
+ ...
+ [ 2  4  5 ... 16  2  7]
+ [ 5 10  2 ... 10  5  8]
+ [29 24 17 ... 16 11 16]]"
+40,012_S_0689,ADNI 1,M,80.3,AD,4,ADNI1/GO Month 24,7/23/2008,65.7,10.0,5.0,1.0,Survey,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_012_S_0689_MR_Survey_br_raw_20080728103158890_9_S54152_I114360.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/012_S_0689/Survey/2008-07-23_14_20_01.0/S54152/ADNI_012_S_0689_MR_Survey_br_raw_20080728103158890_9_S54152_I114360.dcm,"[[23 20  6 ...  8 23 31]
+ [ 8  4  2 ...  6  9 11]
+ [ 1  3  4 ... 21  7  5]
+ ...
+ [14  5  7 ...  2  2  1]
+ [14  4  0 ... 13 15 14]
+ [17 16 18 ... 13 18 27]]"
+41,012_S_0689,ADNI 1,M,80.3,AD,4,ADNI1/GO Month 24,7/23/2008,65.7,10.0,5.0,1.0,Survey,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_012_S_0689_MR_Survey_br_raw_20080728103343093_7_S54151_I114359.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/012_S_0689/Survey/2008-07-23_15_01_56.0/S54151/ADNI_012_S_0689_MR_Survey_br_raw_20080728103343093_7_S54151_I114359.dcm,"[[ 9  8 12 ...  9 10  8]
+ [ 3  6  6 ...  4  4  5]
+ [ 1  7  4 ...  6  0  1]
+ ...
+ [ 3  0  0 ...  5  6  3]
+ [ 5  5  7 ...  7  5  2]
+ [ 9 14 14 ...  6  4 13]]"
+42,012_S_0689,ADNI 1,M,80.3,AD,4,ADNI1/GO Month 24,7/23/2008,65.7,10.0,5.0,1.0,Survey,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_012_S_0689_MR_Survey_br_raw_20080728103343281_8_S54151_I114359.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/012_S_0689/Survey/2008-07-23_15_01_56.0/S54151/ADNI_012_S_0689_MR_Survey_br_raw_20080728103343281_8_S54151_I114359.dcm,"[[13  9  7 ...  5  8 13]
+ [ 5  4  2 ...  9  1  3]
+ [ 0  4  3 ...  4  0  3]
+ ...
+ [ 5  7  8 ...  6  3  1]
+ [ 1  6 10 ...  2  3  2]
+ [ 6  6  5 ... 13  9 10]]"
+43,012_S_0689,ADNI 1,M,80.3,AD,4,ADNI1/GO Month 24,7/23/2008,65.7,10.0,5.0,1.0,Survey,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_012_S_0689_MR_Survey_br_raw_20080728103343515_9_S54151_I114359.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/012_S_0689/Survey/2008-07-23_15_01_56.0/S54151/ADNI_012_S_0689_MR_Survey_br_raw_20080728103343515_9_S54151_I114359.dcm,"[[13 10  7 ...  5 10 19]
+ [ 0  4  7 ...  3  1  0]
+ [ 1  1  4 ...  3  7  2]
+ ...
+ [ 0  4  4 ...  1  1  1]
+ [ 3  1  5 ...  8  5  2]
+ [ 7  9  7 ...  7 14 11]]"
+44,012_S_0689,ADNI 1,M,80.3,AD,4,ADNI1/GO Month 24,7/23/2008,65.7,10.0,5.0,1.0,Survey,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_012_S_0689_MR_Survey_br_raw_20080728103158703_8_S54152_I114360.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/012_S_0689/Survey/2008-07-23_14_20_01.0/S54152/ADNI_012_S_0689_MR_Survey_br_raw_20080728103158703_8_S54152_I114360.dcm,"[[32 16 11 ... 13 12 17]
+ [13  1 10 ...  2  2 10]
+ [ 1 19 17 ...  5  6  2]
+ ...
+ [ 0  4  4 ...  5  1  3]
+ [ 6  6  1 ... 18 11 14]
+ [29 23 22 ... 28 20 15]]"
+45,012_S_0689,ADNI 1,M,80.3,AD,4,ADNI1/GO Month 24,7/23/2008,65.7,10.0,5.0,1.0,Survey,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_012_S_0689_MR_Survey_br_raw_20080728103158500_7_S54152_I114360.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/012_S_0689/Survey/2008-07-23_14_20_01.0/S54152/ADNI_012_S_0689_MR_Survey_br_raw_20080728103158500_7_S54152_I114360.dcm,"[[12 21 13 ... 17 14 18]
+ [ 5  8 10 ...  4 10 12]
+ [ 2  2 10 ...  2 16 15]
+ ...
+ [ 2  4  5 ... 16  2  7]
+ [ 5 10  2 ... 10  5  8]
+ [29 24 17 ... 16 11 16]]"
+46,012_S_0689,ADNI 1,M,80.3,AD,4,ADNI1/GO Month 24,7/23/2008,65.7,10.0,5.0,1.0,Survey,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_012_S_0689_MR_Survey_br_raw_20080728103158890_9_S54152_I114360.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/012_S_0689/Survey/2008-07-23_14_20_01.0/S54152/ADNI_012_S_0689_MR_Survey_br_raw_20080728103158890_9_S54152_I114360.dcm,"[[23 20  6 ...  8 23 31]
+ [ 8  4  2 ...  6  9 11]
+ [ 1  3  4 ... 21  7  5]
+ ...
+ [14  5  7 ...  2  2  1]
+ [14  4  0 ... 13 15 14]
+ [17 16 18 ... 13 18 27]]"
+47,013_S_0240,ADNI 1,M,57.2,MCI,3,ADNI1/GO Month 24,4/24/2008,90.5,27.0,3.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_013_S_0240_MR_Localizer__br_raw_20080425155537171_3_S49344_I104049.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/013_S_0240/Localizer/2008-04-24_14_46_00.0/S49344/ADNI_013_S_0240_MR_Localizer__br_raw_20080425155537171_3_S49344_I104049.dcm,"[[0 0 2 ... 7 7 6]
+ [0 1 3 ... 8 7 7]
+ [0 2 3 ... 8 7 6]
+ ...
+ [0 6 1 ... 2 2 1]
+ [0 4 1 ... 3 4 3]
+ [0 2 2 ... 5 5 5]]"
+48,013_S_5071,ADNI 2,M,93.0,AD,4,ADNI2 Year 1 Visit,2/11/2014,77.1,17.0,5.0,1.0,LOCALIZER,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_013_S_5071_MR_LOCALIZER__br_raw_20140212102819505_14_S212219_I413794.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/013_S_5071/LOCALIZER/2014-02-11_09_33_03.0/S212219/ADNI_013_S_5071_MR_LOCALIZER__br_raw_20140212102819505_14_S212219_I413794.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+49,013_S_5071,ADNI 2,M,93.0,AD,4,ADNI2 Year 1 Visit,2/11/2014,77.1,17.0,5.0,1.0,LOCALIZER,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_013_S_5071_MR_LOCALIZER__br_raw_20140212102811440_15_S212219_I413794.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/013_S_5071/LOCALIZER/2014-02-11_09_33_03.0/S212219/ADNI_013_S_5071_MR_LOCALIZER__br_raw_20140212102811440_15_S212219_I413794.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+50,013_S_5071,ADNI 2,M,93.0,AD,4,ADNI2 Year 1 Visit,2/11/2014,77.1,17.0,5.0,1.0,LOCALIZER,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_013_S_5071_MR_LOCALIZER__br_raw_20140212102815528_12_S212219_I413794.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/013_S_5071/LOCALIZER/2014-02-11_09_33_03.0/S212219/ADNI_013_S_5071_MR_LOCALIZER__br_raw_20140212102815528_12_S212219_I413794.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+51,013_S_5071,ADNI 2,M,93.0,AD,4,ADNI2 Year 1 Visit,2/11/2014,77.1,17.0,5.0,1.0,LOCALIZER,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_013_S_5071_MR_LOCALIZER__br_raw_20140212102841262_11_S212219_I413794.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/013_S_5071/LOCALIZER/2014-02-11_09_33_03.0/S212219/ADNI_013_S_5071_MR_LOCALIZER__br_raw_20140212102841262_11_S212219_I413794.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+52,013_S_5071,ADNI 2,M,93.0,AD,4,ADNI2 Year 1 Visit,2/11/2014,77.1,17.0,5.0,1.0,LOCALIZER,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_013_S_5071_MR_LOCALIZER__br_raw_20140212102817902_13_S212219_I413794.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/013_S_5071/LOCALIZER/2014-02-11_09_33_03.0/S212219/ADNI_013_S_5071_MR_LOCALIZER__br_raw_20140212102817902_13_S212219_I413794.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+53,016_S_0991,ADNI 1,F,71.7,AD,3,ADNI1/GO Month 24,4/22/2009,88.8,18.0,5.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_016_S_0991_MR_localizer__br_raw_20090423094815401_3_S66597_I142409.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/016_S_0991/localizer/2009-04-22_15_52_12.0/S66597/ADNI_016_S_0991_MR_localizer__br_raw_20090423094815401_3_S66597_I142409.dcm,"[[0 0 0 ... 0 0 0]
+ [0 2 2 ... 3 0 2]
+ [0 4 0 ... 7 6 7]
+ ...
+ [0 2 2 ... 4 5 3]
+ [0 1 2 ... 1 1 1]
+ [0 3 3 ... 3 2 4]]"
+54,016_S_0991,ADNI 1,F,71.7,AD,3,ADNI1/GO Month 24,4/22/2009,88.8,18.0,5.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_016_S_0991_MR_localizer__br_raw_20090423094814964_3_S66596_I142406.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/016_S_0991/localizer/2009-04-22_15_48_43.0/S66596/ADNI_016_S_0991_MR_localizer__br_raw_20090423094814964_3_S66596_I142406.dcm,"[[0 0 0 ... 0 0 0]
+ [0 1 1 ... 2 2 1]
+ [0 4 4 ... 1 3 2]
+ ...
+ [0 4 1 ... 2 2 2]
+ [0 1 1 ... 1 4 6]
+ [0 2 0 ... 2 2 3]]"
+55,016_S_0991,ADNI 1,F,71.7,AD,3,ADNI1/GO Month 24,4/22/2009,88.8,18.0,5.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_016_S_0991_MR_localizer__br_raw_20090423094815401_3_S66597_I142409.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/016_S_0991/localizer/2009-04-22_15_52_12.0/S66597/ADNI_016_S_0991_MR_localizer__br_raw_20090423094815401_3_S66597_I142409.dcm,"[[0 0 0 ... 0 0 0]
+ [0 2 2 ... 3 0 2]
+ [0 4 0 ... 7 6 7]
+ ...
+ [0 2 2 ... 4 5 3]
+ [0 1 2 ... 1 1 1]
+ [0 3 3 ... 3 2 4]]"
+56,016_S_0991,ADNI 1,F,71.7,AD,3,ADNI1/GO Month 24,4/22/2009,88.8,18.0,5.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_016_S_0991_MR_localizer__br_raw_20090423094814964_3_S66596_I142406.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/016_S_0991/localizer/2009-04-22_15_48_43.0/S66596/ADNI_016_S_0991_MR_localizer__br_raw_20090423094814964_3_S66596_I142406.dcm,"[[0 0 0 ... 0 0 0]
+ [0 1 1 ... 2 2 1]
+ [0 4 4 ... 1 3 2]
+ ...
+ [0 4 1 ... 2 2 2]
+ [0 1 1 ... 1 4 6]
+ [0 2 0 ... 2 2 3]]"
+57,016_S_1117,ADNI 2,F,51.7,MCI,3,ADNI2 Year 1 Visit,6/26/2012,74.6,18.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_016_S_1117_MR_Localizer__br_raw_20120628154349125_3_S155900_I313344.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/016_S_1117/Localizer/2012-06-26_17_52_12.0/S155900/ADNI_016_S_1117_MR_Localizer__br_raw_20120628154349125_3_S155900_I313344.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 1 2 0]
+ [0 0 0 ... 3 3 0]
+ ...
+ [0 0 1 ... 0 1 0]
+ [0 2 0 ... 2 3 0]
+ [0 0 0 ... 0 0 0]]"
+58,016_S_1121,ADNI 1,F,82.6,MCI,3,ADNI1/GO Month 24,12/23/2008,58.3,11.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_016_S_1121_MR_Localizer__br_raw_20081231103035906_3_S61189_I132478.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/016_S_1121/Localizer/2008-12-23_16_37_52.0/S61189/ADNI_016_S_1121_MR_Localizer__br_raw_20081231103035906_3_S61189_I132478.dcm,"[[0 0 0 ... 0 0 0]
+ [0 2 1 ... 1 1 0]
+ [0 2 2 ... 1 1 0]
+ ...
+ [0 2 1 ... 3 2 0]
+ [0 2 1 ... 3 3 0]
+ [0 0 0 ... 0 0 0]]"
+59,016_S_1326,ADNI 1,M,78.9,MCI,4,ADNI1/GO Month 24,4/01/2009,68.5,24.0,2.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_016_S_1326_MR_Localizer__br_raw_20090415102451832_3_S66358_I141842.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/016_S_1326/localizer/2009-04-13_14_29_21.0/S66358/ADNI_016_S_1326_MR_Localizer__br_raw_20090415102451832_3_S66358_I141842.dcm,"[[0 0 0 ... 0 0 0]
+ [0 1 2 ... 2 1 0]
+ [0 2 2 ... 4 3 0]
+ ...
+ [0 2 2 ... 4 4 0]
+ [0 3 3 ... 3 3 0]
+ [0 0 0 ... 0 0 0]]"
+60,016_S_1326,ADNI 1,M,78.9,MCI,4,ADNI1/GO Month 24,4/01/2009,68.5,24.0,2.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_016_S_1326_MR_localizer__br_raw_20130320093605436_3_S184774_I363778.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/016_S_1326/localizer/2013-03-19_14_28_57.0/S184774/ADNI_016_S_1326_MR_localizer__br_raw_20130320093605436_3_S184774_I363778.dcm,"[[0 0 1 ... 1 1 1]
+ [0 1 1 ... 0 0 0]
+ [0 1 0 ... 0 0 1]
+ ...
+ [0 0 0 ... 1 1 0]
+ [0 0 0 ... 0 1 1]
+ [0 0 0 ... 1 1 1]]"
+61,016_S_1326,ADNI 1,M,78.9,MCI,4,ADNI1/GO Month 24,4/01/2009,68.5,24.0,2.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_016_S_1326_MR_localizer__br_raw_20090402094327545_3_S65413_I140321.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/016_S_1326/localizer/2009-04-01_11_55_00.0/S65413/ADNI_016_S_1326_MR_localizer__br_raw_20090402094327545_3_S65413_I140321.dcm,"[[0 0 0 ... 0 0 0]
+ [0 3 5 ... 3 0 3]
+ [0 5 9 ... 2 5 7]
+ ...
+ [0 6 3 ... 3 3 0]
+ [0 2 7 ... 6 2 5]
+ [0 3 3 ... 5 4 3]]"
+62,016_S_1326,ADNI 2,M,79.4,MCI,4,ADNI2 Year 1 Visit,3/19/2013,72.4,16.0,2.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_016_S_1326_MR_Localizer__br_raw_20090415102451832_3_S66358_I141842.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/016_S_1326/localizer/2009-04-13_14_29_21.0/S66358/ADNI_016_S_1326_MR_Localizer__br_raw_20090415102451832_3_S66358_I141842.dcm,"[[0 0 0 ... 0 0 0]
+ [0 1 2 ... 2 1 0]
+ [0 2 2 ... 4 3 0]
+ ...
+ [0 2 2 ... 4 4 0]
+ [0 3 3 ... 3 3 0]
+ [0 0 0 ... 0 0 0]]"
+63,016_S_1326,ADNI 2,M,79.4,MCI,4,ADNI2 Year 1 Visit,3/19/2013,72.4,16.0,2.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_016_S_1326_MR_localizer__br_raw_20130320093605436_3_S184774_I363778.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/016_S_1326/localizer/2013-03-19_14_28_57.0/S184774/ADNI_016_S_1326_MR_localizer__br_raw_20130320093605436_3_S184774_I363778.dcm,"[[0 0 1 ... 1 1 1]
+ [0 1 1 ... 0 0 0]
+ [0 1 0 ... 0 0 1]
+ ...
+ [0 0 0 ... 1 1 0]
+ [0 0 0 ... 0 1 1]
+ [0 0 0 ... 1 1 1]]"
+64,016_S_1326,ADNI 2,M,79.4,MCI,4,ADNI2 Year 1 Visit,3/19/2013,72.4,16.0,2.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_016_S_1326_MR_localizer__br_raw_20090402094327545_3_S65413_I140321.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/016_S_1326/localizer/2009-04-01_11_55_00.0/S65413/ADNI_016_S_1326_MR_localizer__br_raw_20090402094327545_3_S65413_I140321.dcm,"[[0 0 0 ... 0 0 0]
+ [0 3 5 ... 3 0 3]
+ [0 5 9 ... 2 5 7]
+ ...
+ [0 6 3 ... 3 3 0]
+ [0 2 7 ... 6 2 5]
+ [0 3 3 ... 5 4 3]]"
+65,018_S_0142,ADNI 2,M,72.1,MCI,4,ADNI2 Year 4 Visit,4/11/2016,89.5,25.0,2.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_018_S_0142_MR_Localizer__br_raw_20160411164042457_3_S416302_I677900.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/018_S_0142/Localizer/2016-04-11_14_37_37.0/S416302/ADNI_018_S_0142_MR_Localizer__br_raw_20160411164042457_3_S416302_I677900.dcm,"[[0 0 0 ... 0 0 0]
+ [0 3 2 ... 1 1 0]
+ [0 1 1 ... 2 3 0]
+ ...
+ [0 2 1 ... 1 1 0]
+ [0 4 3 ... 1 0 0]
+ [0 0 0 ... 0 0 0]]"
+66,018_S_0633,ADNI 1,M,81.7,AD,4,ADNI1/GO Month 24,9/25/2008,85.7,15.0,4.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_018_S_0633_MR_Localizer__br_raw_20080925144027546_3_S56713_I118392.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/018_S_0633/Localizer/2008-09-25_11_28_49.0/S56713/ADNI_018_S_0633_MR_Localizer__br_raw_20080925144027546_3_S56713_I118392.dcm,"[[0 0 0 ... 0 0 0]
+ [0 2 1 ... 3 4 0]
+ [0 2 4 ... 1 1 0]
+ ...
+ [0 2 3 ... 0 3 0]
+ [0 0 0 ... 0 3 0]
+ [0 0 0 ... 0 0 0]]"
+67,018_S_0633,ADNI 1,M,81.7,AD,4,ADNI1/GO Month 24,9/25/2008,85.7,15.0,4.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_018_S_0633_MR_Localizer__br_raw_20080925144026859_3_S56714_I118395.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/018_S_0633/Localizer/2008-09-25_11_28_14.0/S56714/ADNI_018_S_0633_MR_Localizer__br_raw_20080925144026859_3_S56714_I118395.dcm,"[[0 0 0 ... 0 0 0]
+ [0 1 1 ... 2 2 0]
+ [0 4 2 ... 5 4 0]
+ ...
+ [0 0 2 ... 1 2 0]
+ [0 0 3 ... 1 2 0]
+ [0 0 0 ... 0 0 0]]"
+68,018_S_0633,ADNI 1,M,81.7,AD,4,ADNI1/GO Month 24,9/25/2008,85.7,15.0,4.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_018_S_0633_MR_Localizer__br_raw_20080925144027546_3_S56713_I118392.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/018_S_0633/Localizer/2008-09-25_11_28_49.0/S56713/ADNI_018_S_0633_MR_Localizer__br_raw_20080925144027546_3_S56713_I118392.dcm,"[[0 0 0 ... 0 0 0]
+ [0 2 1 ... 3 4 0]
+ [0 2 4 ... 1 1 0]
+ ...
+ [0 2 3 ... 0 3 0]
+ [0 0 0 ... 0 3 0]
+ [0 0 0 ... 0 0 0]]"
+69,018_S_0633,ADNI 1,M,81.7,AD,4,ADNI1/GO Month 24,9/25/2008,85.7,15.0,4.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_018_S_0633_MR_Localizer__br_raw_20080925144026859_3_S56714_I118395.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/018_S_0633/Localizer/2008-09-25_11_28_14.0/S56714/ADNI_018_S_0633_MR_Localizer__br_raw_20080925144026859_3_S56714_I118395.dcm,"[[0 0 0 ... 0 0 0]
+ [0 1 1 ... 2 2 0]
+ [0 4 2 ... 5 4 0]
+ ...
+ [0 0 2 ... 1 2 0]
+ [0 0 3 ... 1 2 0]
+ [0 0 0 ... 0 0 0]]"
+70,018_S_0682,ADNI 1,M,64.9,AD,4,ADNI1/GO Month 24,7/22/2008,70.1,14.0,2.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_018_S_0682_MR_Localizer__br_raw_20080912142745862_3_S56419_I117872.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/018_S_0682/Localizer/2008-07-22_15_57_13.0/S56419/ADNI_018_S_0682_MR_Localizer__br_raw_20080912142745862_3_S56419_I117872.dcm,"[[0 0 0 ... 0 0 0]
+ [0 1 0 ... 1 1 0]
+ [0 2 2 ... 1 0 0]
+ ...
+ [0 1 2 ... 0 2 0]
+ [0 0 2 ... 2 3 0]
+ [0 0 0 ... 0 0 0]]"
+71,018_S_0682,ADNI 1,M,64.9,AD,4,ADNI1/GO Month 24,7/22/2008,70.1,14.0,2.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_018_S_0682_MR_Localizer__br_raw_20080912142536779_3_S56420_I117875.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/018_S_0682/Localizer/2008-07-22_16_02_30.0/S56420/ADNI_018_S_0682_MR_Localizer__br_raw_20080912142536779_3_S56420_I117875.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 1 ... 1 2 0]
+ [0 1 3 ... 2 2 0]
+ ...
+ [0 2 1 ... 1 1 0]
+ [0 4 2 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+72,018_S_0682,ADNI 1,M,64.9,AD,4,ADNI1/GO Month 24,7/22/2008,70.1,14.0,2.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_018_S_0682_MR_Localizer__br_raw_20080912142745862_3_S56419_I117872.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/018_S_0682/Localizer/2008-07-22_15_57_13.0/S56419/ADNI_018_S_0682_MR_Localizer__br_raw_20080912142745862_3_S56419_I117872.dcm,"[[0 0 0 ... 0 0 0]
+ [0 1 0 ... 1 1 0]
+ [0 2 2 ... 1 0 0]
+ ...
+ [0 1 2 ... 0 2 0]
+ [0 0 2 ... 2 3 0]
+ [0 0 0 ... 0 0 0]]"
+73,018_S_0682,ADNI 1,M,64.9,AD,4,ADNI1/GO Month 24,7/22/2008,70.1,14.0,2.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_018_S_0682_MR_Localizer__br_raw_20080912142536779_3_S56420_I117875.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/018_S_0682/Localizer/2008-07-22_16_02_30.0/S56420/ADNI_018_S_0682_MR_Localizer__br_raw_20080912142536779_3_S56420_I117875.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 1 ... 1 2 0]
+ [0 1 3 ... 2 2 0]
+ ...
+ [0 2 1 ... 1 1 0]
+ [0 4 2 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+74,023_S_4501,ADNI 2,M,73.5,AD,4,ADNI2 Year 2 Visit,5/07/2014,81.2,22.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_023_S_4501_MR_localizer__br_raw_20140509102257113_3_S218224_I424239.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/023_S_4501/localizer/2014-05-07_11_28_58.0/S218224/ADNI_023_S_4501_MR_localizer__br_raw_20140509102257113_3_S218224_I424239.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+75,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163505593_42_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163505593_42_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 20 18 ... 16 11 22]
+ [ 0 20 16 ... 17 13 12]
+ ...
+ [ 0 22 19 ... 21 21 12]
+ [ 0 18 21 ... 18 18 21]
+ [ 0 19 11 ... 20  9 15]]"
+76,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163451234_40_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163451234_40_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 17 17 ... 29 22 25]
+ [ 0 25 19 ... 15 23 15]
+ ...
+ [ 0 20 21 ... 10 16 23]
+ [ 0 14 14 ...  9 14 17]
+ [ 0  7 15 ... 20 25 18]]"
+77,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163505718_39_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163505718_39_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 23 17 ... 16 14 14]
+ [ 0 13 16 ... 12 18 15]
+ ...
+ [ 0 19 15 ... 16 15 21]
+ [ 0 33 14 ... 14 18 16]
+ [ 0 20 21 ... 15 11 22]]"
+78,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163515015_17_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163515015_17_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 11 21 ... 15 20 24]
+ [ 0 25 33 ... 36 19 27]
+ ...
+ [ 0 11 24 ... 12 21 13]
+ [ 0 15 13 ... 15 16 13]
+ [ 0 13 12 ... 17 13 20]]"
+79,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163518781_41_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163518781_41_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 16 26 ... 15 19 22]
+ [ 0 16 11 ... 21 22 17]
+ ...
+ [ 0 15 18 ... 18 20 18]
+ [ 0 19 21 ... 19 11 15]
+ [ 0 17 16 ... 12 17 16]]"
+80,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163511875_12_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163511875_12_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 19 14 ... 23 20 19]
+ [ 0 15 14 ... 21 30 19]
+ ...
+ [ 0 22  9 ... 15 22 13]
+ [ 0 15 16 ... 26 18 10]
+ [ 0 19  9 ... 24 19 17]]"
+81,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163516671_27_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163516671_27_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 20 15 ... 20 23 19]
+ [ 0 22 23 ... 18 17 17]
+ ...
+ [ 0 11 22 ... 21 28 21]
+ [ 0 18 15 ... 16 14 13]
+ [ 0 16 21 ... 16 15 16]]"
+82,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163516609_25_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163516609_25_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 16 19 ... 24 21 23]
+ [ 0 17 20 ... 19 14 16]
+ ...
+ [ 0 14 28 ... 10 13 15]
+ [ 0 20 25 ... 22 15 22]
+ [ 0 18 17 ... 16 17 13]]"
+83,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163450906_14_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163450906_14_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 30 19 ... 19 29 25]
+ [ 0 21 25 ... 27 37 20]
+ ...
+ [ 0 15 12 ... 17 16 17]
+ [ 0 21 16 ... 20 22 15]
+ [ 0 17 30 ... 18 18 26]]"
+84,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163518625_1_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163518625_1_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 23 17 ... 19 13 19]
+ [ 0 20 28 ... 12 20 15]
+ ...
+ [ 0 12 19 ... 17 17 26]
+ [ 0 21 21 ... 21  6 17]
+ [ 0 12 16 ... 11 15 13]]"
+85,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163514796_19_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163514796_19_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 12  9 ... 15 24 18]
+ [ 0 22 16 ... 23 23 13]
+ ...
+ [ 0 19 15 ... 13 22 18]
+ [ 0 19 25 ... 10 22 17]
+ [ 0 32 25 ... 28 17 24]]"
+86,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163454703_8_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163454703_8_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 19 17 ... 29 37 19]
+ [ 0 20 17 ... 27 26 24]
+ ...
+ [ 0 15 14 ... 23 10 18]
+ [ 0 16 19 ... 27 18 19]
+ [ 0 18 22 ... 13 26 18]]"
+87,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163451171_30_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163451171_30_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 25 11 ... 25 16 16]
+ [ 0 11 15 ... 12  8 20]
+ ...
+ [ 0 11 12 ... 16 10 15]
+ [ 0 23 22 ... 21 19 19]
+ [ 0 19 18 ... 14 19 14]]"
+88,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163508453_13_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163508453_13_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 20 24 ... 23 13 27]
+ [ 0 22 23 ... 35 34 17]
+ ...
+ [ 0 22 25 ... 19 13 19]
+ [ 0 16 20 ... 12 15 19]
+ [ 0 15 21 ... 11 11 14]]"
+89,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163503343_28_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163503343_28_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 10 15 ... 19 19 11]
+ [ 0 16 11 ... 12 11 11]
+ ...
+ [ 0 11 11 ... 16 11 16]
+ [ 0 22 21 ... 21 11 24]
+ [ 0 14 17 ... 14 19 15]]"
+90,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163514687_2_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163514687_2_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 14 21 ... 14 12 23]
+ [ 0 21 12 ... 14 15 20]
+ ...
+ [ 0 15 14 ... 16 23 27]
+ [ 0 19 19 ... 10 17 16]
+ [ 0 24 16 ... 13 12 16]]"
+91,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163502203_11_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163502203_11_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 25 12 ... 20 26 20]
+ [ 0 16 28 ... 23 19 24]
+ ...
+ [ 0 20 21 ... 20 18 17]
+ [ 0 16 12 ... 15 22 22]
+ [ 0 16 21 ... 19 20 15]]"
+92,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163505421_5_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163505421_5_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 23 24 ... 20 22 22]
+ [ 0 18 15 ... 16 23 12]
+ ...
+ [ 0 23 16 ... 16 12 16]
+ [ 0 10 19 ... 14 15 16]
+ [ 0 19 16 ... 13 21 20]]"
+93,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163448968_4_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163448968_4_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 27 16 ... 22 21 10]
+ [ 0 18 22 ... 16 13 14]
+ ...
+ [ 0 23 15 ... 13 20 21]
+ [ 0 13 21 ... 18 12  5]
+ [ 0 29 14 ... 23 20 18]]"
+94,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163508265_7_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163508265_7_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0  6 15 ... 13 20 15]
+ [ 0 24 11 ... 24 23 11]
+ ...
+ [ 0 17 16 ... 12  9 10]
+ [ 0 16 19 ... 28 14 19]
+ [ 0 24 19 ...  9 12 16]]"
+95,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163502890_21_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163502890_21_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 23 22 ... 23 21 15]
+ [ 0 24 28 ... 27 16 29]
+ ...
+ [ 0 22 16 ...  8 11 21]
+ [ 0 18 18 ... 22 15 20]
+ [ 0 17 24 ... 18 13 16]]"
+96,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163455187_32_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163455187_32_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 13 23 ... 21 16 17]
+ [ 0 15 28 ... 18 13 14]
+ ...
+ [ 0 22 20 ... 12 13 12]
+ [ 0 25 14 ... 18 12 19]
+ [ 0 19 20 ... 18 23 17]]"
+97,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163515250_9_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163515250_9_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 29 40 ... 10 30 18]
+ [ 0 13 17 ... 21 20 15]
+ ...
+ [ 0 11 14 ... 10 18 24]
+ [ 0 18 20 ... 18 23 26]
+ [ 0 11 12 ... 14 18 20]]"
+98,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163457437_33_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163457437_33_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 21 15 ... 14 20 27]
+ [ 0 29 21 ... 16 15 10]
+ ...
+ [ 0 16 18 ... 19 14 27]
+ [ 0 19 20 ... 17  9 11]
+ [ 0 19 18 ... 18 22 14]]"
+99,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163506093_18_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163506093_18_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 19 27 ... 16 29 18]
+ [ 0 23 18 ... 22 18 17]
+ ...
+ [ 0 17 21 ... 10 18 19]
+ [ 0 19 15 ... 10 12 18]
+ [ 0 18 18 ...  9 23 23]]"
+100,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163455468_16_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163455468_16_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 13 15 ... 17 25 26]
+ [ 0 31 35 ... 16 19 19]
+ ...
+ [ 0 13  7 ... 19 17 26]
+ [ 0 17 20 ... 13 16 21]
+ [ 0 17 21 ... 15 14 16]]"
+101,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163515109_10_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163515109_10_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 29 30 ... 17 26 19]
+ [ 0 25 22 ... 18 22 19]
+ ...
+ [ 0 26 24 ... 25 40 23]
+ [ 0 21 17 ... 22 13 19]
+ [ 0 21 19 ... 19 23  7]]"
+102,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163506359_3_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163506359_3_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 15 26 ... 28 16 26]
+ [ 0 23 22 ... 24 20 27]
+ ...
+ [ 0 11 15 ... 25 13 12]
+ [ 0 14 20 ... 12 18 25]
+ [ 0 14 25 ... 20 25 10]]"
+103,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163448531_26_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163448531_26_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 14 20 ... 34 11 16]
+ [ 0 27 18 ... 10 20 13]
+ ...
+ [ 0 19 15 ... 15 12 21]
+ [ 0 28 18 ... 17 12 22]
+ [ 0 17 13 ... 14 19 23]]"
+104,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163453703_38_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163453703_38_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 14 13 ... 12 11 14]
+ [ 0 13 11 ... 18 18 18]
+ ...
+ [ 0 16 18 ... 18 12 12]
+ [ 0 19 24 ... 10 18 11]
+ [ 0 21 10 ... 18 15 20]]"
+105,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163456203_22_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163456203_22_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 17 17 ... 16 20 25]
+ [ 0 22 25 ... 18 19 13]
+ ...
+ [ 0 16 17 ... 19 18 18]
+ [ 0 21 19 ... 17 15 18]
+ [ 0 12 17 ... 15 17 15]]"
+106,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163455609_44_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163455609_44_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 26 16 ... 26 21 14]
+ [ 0 16 24 ... 12 25 16]
+ ...
+ [ 0 21 14 ... 10 10 16]
+ [ 0 11 11 ... 13 12 23]
+ [ 0 15 21 ... 24 14 28]]"
+107,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163518468_24_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163518468_24_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 19 13 ... 18  8 16]
+ [ 0 20 15 ... 20 10 20]
+ ...
+ [ 0 19 16 ... 13 18 16]
+ [ 0 21 19 ... 23 27 15]
+ [ 0 22 21 ... 17 22 20]]"
+108,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163451562_35_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163451562_35_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 15 13 ... 18 22 13]
+ [ 0 12 18 ... 19 23 19]
+ ...
+ [ 0 17 15 ... 24 15  7]
+ [ 0 14 18 ... 27 24 16]
+ [ 0 17 15 ... 16 16 12]]"
+109,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163449984_45_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163449984_45_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 18 14 ... 19 17 14]
+ [ 0 20 19 ... 12 12 15]
+ ...
+ [ 0 18 10 ... 15 28 21]
+ [ 0 20 24 ... 17 20 21]
+ [ 0 14 22 ... 15 11 22]]"
+110,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163455250_34_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163455250_34_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 16 23 ... 20 20 16]
+ [ 0 14 13 ... 24 20 18]
+ ...
+ [ 0 19 19 ...  7 21 11]
+ [ 0 12 21 ... 24 24 13]
+ [ 0 29  6 ... 13 11 17]]"
+111,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163448718_36_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163448718_36_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 23 13 ... 27 26 18]
+ [ 0 10 18 ... 22 25 20]
+ ...
+ [ 0 11 23 ... 22 21 19]
+ [ 0 17 23 ... 18 15 22]
+ [ 0 15 13 ... 15 28 19]]"
+112,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163507921_20_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163507921_20_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 17 23 ... 20 14 17]
+ [ 0 24 34 ... 16 16 22]
+ ...
+ [ 0 13 11 ... 12 13 16]
+ [ 0 13 18 ... 15 14 21]
+ [ 0 21 23 ... 22 12 19]]"
+113,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163507156_6_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163507156_6_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 17 32 ... 15 23 16]
+ [ 0 27 20 ... 17 18  9]
+ ...
+ [ 0 16 13 ... 17 17 21]
+ [ 0 18 24 ...  9 26 23]
+ [ 0 15 27 ... 23 16 22]]"
+114,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163513000_23_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163513000_23_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 25 11 ... 29 18 17]
+ [ 0 24 20 ... 20 20 19]
+ ...
+ [ 0 12 15 ... 20 15 21]
+ [ 0 19 28 ... 11 17 27]
+ [ 0 18 16 ... 15 16 17]]"
+115,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163505734_29_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163505734_29_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 17 13 ...  8 24 10]
+ [ 0 14  8 ... 13 17 20]
+ ...
+ [ 0 23 21 ... 13 16 19]
+ [ 0 19 14 ... 14 16 24]
+ [ 0 10 13 ... 17  9 15]]"
+116,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163449453_31_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163449453_31_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 12 21 ... 22 19 25]
+ [ 0 22 12 ... 14 26 12]
+ ...
+ [ 0 15 18 ... 23 15 12]
+ [ 0 13 15 ... 24 19 18]
+ [ 0 21 17 ... 10 23 20]]"
+117,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163507781_37_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163507781_37_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 30 14 ... 22 27 17]
+ [ 0 12 23 ... 12 21 21]
+ ...
+ [ 0 23 26 ... 15 29 13]
+ [ 0 17 23 ... 18 26 23]
+ [ 0 25 17 ... 12 16 10]]"
+118,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163455093_15_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163455093_15_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 17 22 ... 26 35 29]
+ [ 0 16 19 ... 21 26 33]
+ ...
+ [ 0 26 12 ... 13 17 17]
+ [ 0 29 21 ... 22 14 25]
+ [ 0  9 24 ... 15 21 17]]"
+119,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163512875_43_S173282_I343975.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/ADNI_gre_field_mapping/2012-11-05_10_41_50.0/S173282/ADNI_024_S_4280_MR_ADNI_gre_field_mapping_br_raw_20121105163512875_43_S173282_I343975.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 18 15 ... 18 21 11]
+ [ 0 19  9 ... 15  6 19]
+ ...
+ [ 0 27 29 ... 16 16 16]
+ [ 0 13 31 ... 13 16 21]
+ [ 0 12 15 ... 17 16 17]]"
+120,024_S_4280,ADNI 2,M,70.8,AD,4,ADNI2 Year 1 Visit,11/05/2012,80.8,24.0,2.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_024_S_4280_MR_localizer__br_raw_20121105163458593_3_S173283_I343964.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/024_S_4280/localizer/2012-11-05_10_09_37.0/S173283/ADNI_024_S_4280_MR_localizer__br_raw_20121105163458593_3_S173283_I343964.dcm,"[[0 0 0 ... 0 0 0]
+ [0 1 0 ... 0 0 0]
+ [0 1 1 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+121,027_S_0404,ADNI 1,F,67.6,AD,3,ADNI1/GO Month 12,5/16/2007,88.9,22.0,2.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_027_S_0404_MR_Localizer__br_raw_20070516142659062_3_S32330_I54554.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/027_S_0404/Localizer/2007-05-16_09_57_05.0/S32330/ADNI_027_S_0404_MR_Localizer__br_raw_20070516142659062_3_S32330_I54554.dcm,"[[0 2 3 ... 1 2 2]
+ [0 1 2 ... 2 2 2]
+ [0 1 1 ... 2 2 2]
+ ...
+ [0 0 2 ... 2 2 1]
+ [0 0 3 ... 2 2 1]
+ [0 1 3 ... 2 2 1]]"
+122,027_S_0404,ADNI 1,F,67.6,AD,3,ADNI1/GO Month 12,5/16/2007,88.9,22.0,2.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_027_S_0404_MR_Localizer__br_raw_20080513095328976_3_S49989_I105236.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/027_S_0404/Localizer/2008-05-12_13_20_12.0/S49989/ADNI_027_S_0404_MR_Localizer__br_raw_20080513095328976_3_S49989_I105236.dcm,"[[0 1 1 ... 2 1 0]
+ [0 0 1 ... 2 1 1]
+ [0 1 1 ... 2 1 1]
+ ...
+ [0 1 1 ... 2 1 1]
+ [0 1 1 ... 2 1 1]
+ [0 1 1 ... 2 1 0]]"
+123,027_S_0404,ADNI 1,F,65.6,AD,3,ADNI1/GO Month 24,5/12/2008,89.9,20.0,3.0,2.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_027_S_0404_MR_Localizer__br_raw_20070516142659062_3_S32330_I54554.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/027_S_0404/Localizer/2007-05-16_09_57_05.0/S32330/ADNI_027_S_0404_MR_Localizer__br_raw_20070516142659062_3_S32330_I54554.dcm,"[[0 2 3 ... 1 2 2]
+ [0 1 2 ... 2 2 2]
+ [0 1 1 ... 2 2 2]
+ ...
+ [0 0 2 ... 2 2 1]
+ [0 0 3 ... 2 2 1]
+ [0 1 3 ... 2 2 1]]"
+124,027_S_0404,ADNI 1,F,65.6,AD,3,ADNI1/GO Month 24,5/12/2008,89.9,20.0,3.0,2.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_027_S_0404_MR_Localizer__br_raw_20080513095328976_3_S49989_I105236.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/027_S_0404/Localizer/2008-05-12_13_20_12.0/S49989/ADNI_027_S_0404_MR_Localizer__br_raw_20080513095328976_3_S49989_I105236.dcm,"[[0 1 1 ... 2 1 0]
+ [0 0 1 ... 2 1 1]
+ [0 1 1 ... 2 1 1]
+ ...
+ [0 1 1 ... 2 1 1]
+ [0 1 1 ... 2 1 1]
+ [0 1 1 ... 2 1 0]]"
+125,027_S_1081,ADNI 1,M,79.0,AD,4,ADNI1/GO Month 24,2/04/2009,86.7,22.0,1.0,2.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_027_S_1081_MR_Localizer__br_raw_20090204142702421_3_S62634_I135177.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/027_S_1081/Localizer/2009-02-04_11_33_42.0/S62634/ADNI_027_S_1081_MR_Localizer__br_raw_20090204142702421_3_S62634_I135177.dcm,"[[0 3 3 ... 3 3 2]
+ [0 3 3 ... 3 3 2]
+ [0 3 4 ... 3 3 2]
+ ...
+ [0 1 1 ... 2 2 2]
+ [0 1 1 ... 3 3 2]
+ [0 2 2 ... 3 3 2]]"
+126,027_S_1082,ADNI 1,F,61.0,AD,4,ADNI1/GO Month 12,12/05/2007,70.6,10.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_027_S_1082_MR_Localizer__br_raw_20071205110722312_3_S43356_I84175.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/027_S_1082/Localizer/2007-12-05_09_56_55.0/S43356/ADNI_027_S_1082_MR_Localizer__br_raw_20071205110722312_3_S43356_I84175.dcm,"[[0 1 1 ... 2 3 1]
+ [0 2 1 ... 2 2 2]
+ [0 2 2 ... 2 2 2]
+ ...
+ [0 0 0 ... 1 1 1]
+ [0 1 0 ... 1 1 2]
+ [0 1 1 ... 2 2 1]]"
+127,027_S_1082,ADNI 1,F,61.0,AD,4,ADNI1/GO Month 12,12/05/2007,70.6,10.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_027_S_1082_MR_Localizer__br_raw_20081208130343384_3_S60607_I129504.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/027_S_1082/Localizer/2008-12-08_09_58_42.0/S60607/ADNI_027_S_1082_MR_Localizer__br_raw_20081208130343384_3_S60607_I129504.dcm,"[[0 1 0 ... 1 1 1]
+ [0 0 1 ... 1 0 1]
+ [0 1 2 ... 1 0 1]
+ ...
+ [0 1 0 ... 1 2 2]
+ [0 1 1 ... 1 2 1]
+ [0 1 1 ... 1 1 1]]"
+128,027_S_1082,ADNI 1,F,59.7,AD,4,ADNI1/GO Month 24,12/08/2008,71.6,5.0,1.0,2.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_027_S_1082_MR_Localizer__br_raw_20071205110722312_3_S43356_I84175.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/027_S_1082/Localizer/2007-12-05_09_56_55.0/S43356/ADNI_027_S_1082_MR_Localizer__br_raw_20071205110722312_3_S43356_I84175.dcm,"[[0 1 1 ... 2 3 1]
+ [0 2 1 ... 2 2 2]
+ [0 2 2 ... 2 2 2]
+ ...
+ [0 0 0 ... 1 1 1]
+ [0 1 0 ... 1 1 2]
+ [0 1 1 ... 2 2 1]]"
+129,027_S_1082,ADNI 1,F,59.7,AD,4,ADNI1/GO Month 24,12/08/2008,71.6,5.0,1.0,2.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_027_S_1082_MR_Localizer__br_raw_20081208130343384_3_S60607_I129504.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/027_S_1082/Localizer/2008-12-08_09_58_42.0/S60607/ADNI_027_S_1082_MR_Localizer__br_raw_20081208130343384_3_S60607_I129504.dcm,"[[0 1 0 ... 1 1 1]
+ [0 0 1 ... 1 0 1]
+ [0 1 2 ... 1 0 1]
+ ...
+ [0 1 0 ... 1 2 2]
+ [0 1 1 ... 1 2 1]
+ [0 1 1 ... 1 1 1]]"
+130,027_S_1385,ADNI 1,F,51.9,AD,4,ADNI1/GO Month 12,3/26/2008,70.6,22.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_027_S_1385_MR_Localizer__br_raw_20080326123422154_3_S47507_I99561.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/027_S_1385/Localizer/2008-03-26_11_01_12.0/S47507/ADNI_027_S_1385_MR_Localizer__br_raw_20080326123422154_3_S47507_I99561.dcm,"[[0 1 0 ... 1 2 2]
+ [0 0 0 ... 0 2 2]
+ [0 0 0 ... 1 2 2]
+ ...
+ [0 1 0 ... 3 2 2]
+ [0 0 1 ... 2 3 2]
+ [0 0 1 ... 1 2 2]]"
+131,027_S_1387,ADNI 1,M,73.6,MCI,4,ADNI1/GO Month 24,3/11/2009,87.8,22.0,5.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_027_S_1387_MR_Localizer__br_raw_20090311144641593_3_S64293_I138339.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/027_S_1387/Localizer/2009-03-11_13_09_42.0/S64293/ADNI_027_S_1387_MR_Localizer__br_raw_20090311144641593_3_S64293_I138339.dcm,"[[0 1 1 ... 3 2 2]
+ [0 2 1 ... 2 2 2]
+ [0 2 1 ... 2 2 2]
+ ...
+ [0 2 2 ... 3 2 1]
+ [0 2 2 ... 4 3 1]
+ [0 1 2 ... 3 2 2]]"
+132,031_S_0568,ADNI 1,F,65.8,MCI,3,ADNI1/GO Month 24,6/06/2008,81.9,24.0,3.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_031_S_0568_MR_Localizer__br_raw_20080609160001610_3_S51251_I108868.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/031_S_0568/Localizer/2008-06-06_12_00_22.0/S51251/ADNI_031_S_0568_MR_Localizer__br_raw_20080609160001610_3_S51251_I108868.dcm,"[[0 0 0 ... 0 0 0]
+ [0 5 4 ... 3 3 0]
+ [0 5 4 ... 3 3 0]
+ ...
+ [0 2 1 ... 2 1 0]
+ [0 2 1 ... 1 1 0]
+ [0 0 0 ... 0 0 0]]"
+133,031_S_0568,ADNI 1,F,65.8,MCI,3,ADNI1/GO Month 24,6/06/2008,81.9,24.0,3.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_031_S_0568_MR_Localizer__br_raw_20080609160002892_3_S51250_I108865.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/031_S_0568/Localizer/2008-06-06_12_02_43.0/S51250/ADNI_031_S_0568_MR_Localizer__br_raw_20080609160002892_3_S51250_I108865.dcm,"[[0 0 0 ... 0 0 0]
+ [0 7 4 ... 2 4 0]
+ [0 5 4 ... 1 3 0]
+ ...
+ [0 2 3 ... 4 2 0]
+ [0 0 2 ... 2 3 0]
+ [0 0 0 ... 0 0 0]]"
+134,031_S_0568,ADNI 1,F,65.8,MCI,3,ADNI1/GO Month 24,6/06/2008,81.9,24.0,3.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_031_S_0568_MR_Localizer__br_raw_20080609160001610_3_S51251_I108868.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/031_S_0568/Localizer/2008-06-06_12_00_22.0/S51251/ADNI_031_S_0568_MR_Localizer__br_raw_20080609160001610_3_S51251_I108868.dcm,"[[0 0 0 ... 0 0 0]
+ [0 5 4 ... 3 3 0]
+ [0 5 4 ... 3 3 0]
+ ...
+ [0 2 1 ... 2 1 0]
+ [0 2 1 ... 1 1 0]
+ [0 0 0 ... 0 0 0]]"
+135,031_S_0568,ADNI 1,F,65.8,MCI,3,ADNI1/GO Month 24,6/06/2008,81.9,24.0,3.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_031_S_0568_MR_Localizer__br_raw_20080609160002892_3_S51250_I108865.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/031_S_0568/Localizer/2008-06-06_12_02_43.0/S51250/ADNI_031_S_0568_MR_Localizer__br_raw_20080609160002892_3_S51250_I108865.dcm,"[[0 0 0 ... 0 0 0]
+ [0 7 4 ... 2 4 0]
+ [0 5 4 ... 1 3 0]
+ ...
+ [0 2 3 ... 4 2 0]
+ [0 0 2 ... 2 3 0]
+ [0 0 0 ... 0 0 0]]"
+136,031_S_1066,ADNI 1,M,76.2,MCI,4,ADNI1/GO Month 24,11/25/2008,74.5,24.0,2.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_031_S_1066_MR_Localizer__br_raw_20081126153914658_3_S60311_I128634.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/031_S_1066/Localizer/2008-11-25_13_16_41.0/S60311/ADNI_031_S_1066_MR_Localizer__br_raw_20081126153914658_3_S60311_I128634.dcm,"[[0 0 0 ... 0 0 0]
+ [0 4 2 ... 4 2 0]
+ [0 5 2 ... 3 2 0]
+ ...
+ [0 2 4 ... 3 6 0]
+ [0 4 4 ... 2 2 0]
+ [0 0 0 ... 0 0 0]]"
+137,031_S_1066,ADNI 1,M,76.2,MCI,4,ADNI1/GO Month 24,11/25/2008,74.5,24.0,2.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_031_S_1066_MR_Localizer__br_raw_20081126153914236_3_S60310_I128631.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/031_S_1066/Localizer/2008-11-25_13_10_08.0/S60310/ADNI_031_S_1066_MR_Localizer__br_raw_20081126153914236_3_S60310_I128631.dcm,"[[0 0 0 ... 0 0 0]
+ [0 2 2 ... 4 3 0]
+ [0 2 3 ... 4 3 0]
+ ...
+ [0 3 3 ... 2 2 0]
+ [0 2 2 ... 2 2 0]
+ [0 0 0 ... 0 0 0]]"
+138,031_S_1066,ADNI 1,M,76.2,MCI,4,ADNI1/GO Month 24,11/25/2008,74.5,24.0,2.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_031_S_1066_MR_Localizer__br_raw_20081126153914658_3_S60311_I128634.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/031_S_1066/Localizer/2008-11-25_13_16_41.0/S60311/ADNI_031_S_1066_MR_Localizer__br_raw_20081126153914658_3_S60311_I128634.dcm,"[[0 0 0 ... 0 0 0]
+ [0 4 2 ... 4 2 0]
+ [0 5 2 ... 3 2 0]
+ ...
+ [0 2 4 ... 3 6 0]
+ [0 4 4 ... 2 2 0]
+ [0 0 0 ... 0 0 0]]"
+139,031_S_1066,ADNI 1,M,76.2,MCI,4,ADNI1/GO Month 24,11/25/2008,74.5,24.0,2.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_031_S_1066_MR_Localizer__br_raw_20081126153914236_3_S60310_I128631.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/031_S_1066/Localizer/2008-11-25_13_10_08.0/S60310/ADNI_031_S_1066_MR_Localizer__br_raw_20081126153914236_3_S60310_I128631.dcm,"[[0 0 0 ... 0 0 0]
+ [0 2 2 ... 4 3 0]
+ [0 2 3 ... 4 3 0]
+ ...
+ [0 3 3 ... 2 2 0]
+ [0 2 2 ... 2 2 0]
+ [0 0 0 ... 0 0 0]]"
+140,031_S_1066,ADNI 2,M,77.1,MCI,4,ADNI2 Year 1 Visit,1/02/2013,78.6,15.0,1.0,3.0,SURVEY,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_031_S_1066_MR_SURVEY_br_raw_20130102143015584_5_S178732_I353068.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/031_S_1066/SURVEY/2013-01-02_11_59_47.0/S178732/ADNI_031_S_1066_MR_SURVEY_br_raw_20130102143015584_5_S178732_I353068.dcm,"[[30 26 12 ... 29 24 20]
+ [16  8  7 ... 21 16 11]
+ [12 13 18 ... 19 26 21]
+ ...
+ [12  7  8 ... 23 15 18]
+ [16 10 11 ... 11  8 12]
+ [30 18 12 ... 24 24 33]]"
+141,032_S_0214,ADNI 2,M,79.4,MCI,4,ADNI2 Year 1 Visit,4/17/2013,72.3,17.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_032_S_0214_MR_Localizer__br_raw_20150819160917999_3_S269199_I505742.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/032_S_0214/Localizer/2013-04-17_15_26_59.0/S269199/ADNI_032_S_0214_MR_Localizer__br_raw_20150819160917999_3_S269199_I505742.dcm,"[[0 0 0 ... 0 0 0]
+ [0 2 2 ... 1 1 0]
+ [0 1 0 ... 1 0 0]
+ ...
+ [0 2 3 ... 1 0 0]
+ [0 2 5 ... 1 0 0]
+ [0 0 0 ... 0 0 0]]"
+142,032_S_1101,ADNI 1,F,36.7,AD,4,ADNI1/GO Month 12,12/06/2007,72.0,22.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_032_S_1101_MR_Localizer__br_raw_20071207154326620_3_S43477_I84380.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/032_S_1101/Localizer/2007-12-06_11_26_42.0/S43477/ADNI_032_S_1101_MR_Localizer__br_raw_20071207154326620_3_S43477_I84380.dcm,"[[0 0 0 ... 0 0 0]
+ [0 4 2 ... 2 1 0]
+ [0 3 3 ... 2 1 0]
+ ...
+ [0 2 3 ... 3 2 0]
+ [0 2 2 ... 4 4 0]
+ [0 0 0 ... 0 0 0]]"
+143,032_S_4755,ADNI 2,M,105.0,AD,3,ADNI2 Year 1 Visit,7/25/2013,72.8,21.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_032_S_4755_MR_localizer__br_raw_20130731211723560_3_S197036_I383954.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/032_S_4755/localizer/2013-07-25_14_02_26.0/S197036/ADNI_032_S_4755_MR_localizer__br_raw_20130731211723560_3_S197036_I383954.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+144,033_S_5087,ADNI 2,F,60.1,AD,3,ADNI2 Year 1 Visit,3/14/2014,65.7,22.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_033_S_5087_MR_localizer__br_raw_20140316115630466_3_S214061_I416695.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/033_S_5087/localizer/2014-03-14_13_26_36.0/S214061/ADNI_033_S_5087_MR_localizer__br_raw_20140316115630466_3_S214061_I416695.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+145,035_S_0033,ADNI 1,M,84.1,MCI,3,ADNI1/GO Month 24,12/05/2007,85.5,25.0,3.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_035_S_0033_MR_Localizer__br_raw_20071205152659969_3_S43394_I84236.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/035_S_0033/Localizer/2007-12-05_13_41_25.0/S43394/ADNI_035_S_0033_MR_Localizer__br_raw_20071205152659969_3_S43394_I84236.dcm,"[[0 0 0 ... 0 0 0]
+ [0 1 3 ... 2 3 0]
+ [0 1 4 ... 1 2 0]
+ ...
+ [0 0 0 ... 1 1 0]
+ [0 0 2 ... 1 4 0]
+ [0 0 0 ... 0 0 0]]"
+146,035_S_0292,ADNI 2,M,70.4,MCI,3,ADNI2 Year 2 Visit,5/01/2013,83.6,22.0,2.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_035_S_0292_MR_Localizer__br_raw_20130503123700498_3_S188638_I370057.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/035_S_0292/Localizer/2013-05-01_14_22_39.0/S188638/ADNI_035_S_0292_MR_Localizer__br_raw_20130503123700498_3_S188638_I370057.dcm,"[[0 0 0 ... 0 0 0]
+ [0 2 1 ... 1 4 2]
+ [0 3 3 ... 0 1 0]
+ ...
+ [0 0 4 ... 0 0 4]
+ [0 1 2 ... 3 3 0]
+ [0 0 0 ... 1 3 3]]"
+147,035_S_0341,ADNI 1,M,92.3,AD,4,ADNI1/GO Month 12,6/21/2007,75.3,25.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_035_S_0341_MR_Localizer__br_raw_20080424164810157_3_S49288_I103946.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/035_S_0341/Localizer/2008-04-24_14_14_35.0/S49288/ADNI_035_S_0341_MR_Localizer__br_raw_20080424164810157_3_S49288_I103946.dcm,"[[0 0 0 ... 0 0 0]
+ [0 2 3 ... 5 5 0]
+ [0 5 4 ... 0 1 0]
+ ...
+ [0 4 1 ... 0 2 0]
+ [0 3 2 ... 2 1 0]
+ [0 0 0 ... 0 0 0]]"
+148,035_S_0341,ADNI 1,M,92.3,AD,4,ADNI1/GO Month 12,6/21/2007,75.3,25.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_035_S_0341_MR_Localizer__br_raw_20070621154832710_3_S33922_I57571.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/035_S_0341/Localizer/2007-06-21_14_21_46.0/S33922/ADNI_035_S_0341_MR_Localizer__br_raw_20070621154832710_3_S33922_I57571.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 1 ... 2 3 0]
+ [0 1 5 ... 1 1 0]
+ ...
+ [0 6 4 ... 3 1 0]
+ [0 5 4 ... 4 9 0]
+ [0 0 0 ... 0 0 0]]"
+149,035_S_0341,ADNI 1,M,90.2,AD,4,ADNI1/GO Month 24,4/24/2008,76.2,24.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_035_S_0341_MR_Localizer__br_raw_20080424164810157_3_S49288_I103946.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/035_S_0341/Localizer/2008-04-24_14_14_35.0/S49288/ADNI_035_S_0341_MR_Localizer__br_raw_20080424164810157_3_S49288_I103946.dcm,"[[0 0 0 ... 0 0 0]
+ [0 2 3 ... 5 5 0]
+ [0 5 4 ... 0 1 0]
+ ...
+ [0 4 1 ... 0 2 0]
+ [0 3 2 ... 2 1 0]
+ [0 0 0 ... 0 0 0]]"
+150,035_S_0341,ADNI 1,M,90.2,AD,4,ADNI1/GO Month 24,4/24/2008,76.2,24.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_035_S_0341_MR_Localizer__br_raw_20070621154832710_3_S33922_I57571.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/035_S_0341/Localizer/2007-06-21_14_21_46.0/S33922/ADNI_035_S_0341_MR_Localizer__br_raw_20070621154832710_3_S33922_I57571.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 1 ... 2 3 0]
+ [0 1 5 ... 1 1 0]
+ ...
+ [0 6 4 ... 3 1 0]
+ [0 5 4 ... 4 9 0]
+ [0 0 0 ... 0 0 0]]"
+151,035_S_4783,ADNI 2,M,74.8,AD,4,ADNI2 Year 1 Visit,9/18/2013,84.5,19.0,3.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_035_S_4783_MR_localizer__br_raw_20130923152837637_3_S201845_I391568.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/035_S_4783/localizer/2013-09-18_10_41_20.0/S201845/ADNI_035_S_4783_MR_localizer__br_raw_20130923152837637_3_S201845_I391568.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 1 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+152,036_S_0759,ADNI 1,F,76.0,AD,4,ADNI1/GO Month 12,8/30/2007,82.9,21.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_036_S_0759_MR_localizer__br_raw_20070830172949123_3_S38660_I71008.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/036_S_0759/localizer/2007-08-30_11_58_12.0/S38660/ADNI_036_S_0759_MR_localizer__br_raw_20070830172949123_3_S38660_I71008.dcm,"[[0 2 1 ... 2 2 2]
+ [0 2 1 ... 1 2 2]
+ [0 2 1 ... 1 2 2]
+ ...
+ [0 1 4 ... 4 3 1]
+ [0 1 3 ... 4 3 1]
+ [0 1 2 ... 3 2 1]]"
+153,036_S_1001,ADNI 1,M,87.8,AD,4,ADNI1/GO Month 12,11/30/2007,70.5,12.0,2.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_036_S_1001_MR_localizer__br_raw_20071130114131064_3_S43197_I83915.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/036_S_1001/localizer/2007-11-30_09_48_51.0/S43197/ADNI_036_S_1001_MR_localizer__br_raw_20071130114131064_3_S43197_I83915.dcm,"[[0 3 2 ... 4 2 1]
+ [0 3 3 ... 5 2 2]
+ [0 4 3 ... 7 2 3]
+ ...
+ [0 3 0 ... 2 2 3]
+ [0 3 0 ... 3 2 1]
+ [0 3 1 ... 3 2 1]]"
+154,037_S_0566,ADNI 2,M,82.3,MCI,4,ADNI2 Year 1 Visit,12/06/2012,85.4,20.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_0566_MR_localizer__br_raw_20121206141439156_3_S176622_I349853.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_0566/localizer/2012-12-06_12_37_09.0/S176622/ADNI_037_S_0566_MR_localizer__br_raw_20121206141439156_3_S176622_I349853.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 2 0 2]
+ [0 2 2 ... 2 3 0]
+ [0 2 2 ... 3 0 0]]"
+155,037_S_0566,ADNI 2,M,82.3,MCI,4,ADNI2 Year 1 Visit,12/06/2012,85.4,20.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_0566_MR_localizer__br_raw_20150730121740938_3_S267457_I503233.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_0566/localizer/2015-07-29_14_42_31.0/S267457/ADNI_037_S_0566_MR_localizer__br_raw_20150730121740938_3_S267457_I503233.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+156,037_S_0566,ADNI 2,M,82.3,MCI,4,ADNI2 Year 1 Visit,12/06/2012,85.4,20.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_0566_MR_localizer__br_raw_20150730121750829_3_S267457_I503228.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_0566/localizer/2015-07-29_14_42_31.0/S267457/ADNI_037_S_0566_MR_localizer__br_raw_20150730121750829_3_S267457_I503228.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+157,037_S_0566,ADNI 2,M,82.3,MCI,4,ADNI2 Year 1 Visit,12/06/2012,85.4,20.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_0566_MR_localizer__br_raw_20130806083705430_3_S197309_I384398.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_0566/localizer/2013-08-05_14_39_54.0/S197309/ADNI_037_S_0566_MR_localizer__br_raw_20130806083705430_3_S197309_I384398.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 1 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+158,037_S_0566,ADNI 2,M,80.3,MCI,4,ADNI2 Year 2 Visit,8/05/2013,86.1,17.0,2.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_0566_MR_localizer__br_raw_20121206141439156_3_S176622_I349853.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_0566/localizer/2012-12-06_12_37_09.0/S176622/ADNI_037_S_0566_MR_localizer__br_raw_20121206141439156_3_S176622_I349853.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 2 0 2]
+ [0 2 2 ... 2 3 0]
+ [0 2 2 ... 3 0 0]]"
+159,037_S_0566,ADNI 2,M,80.3,MCI,4,ADNI2 Year 2 Visit,8/05/2013,86.1,17.0,2.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_0566_MR_localizer__br_raw_20150730121740938_3_S267457_I503233.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_0566/localizer/2015-07-29_14_42_31.0/S267457/ADNI_037_S_0566_MR_localizer__br_raw_20150730121740938_3_S267457_I503233.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+160,037_S_0566,ADNI 2,M,80.3,MCI,4,ADNI2 Year 2 Visit,8/05/2013,86.1,17.0,2.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_0566_MR_localizer__br_raw_20150730121750829_3_S267457_I503228.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_0566/localizer/2015-07-29_14_42_31.0/S267457/ADNI_037_S_0566_MR_localizer__br_raw_20150730121750829_3_S267457_I503228.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+161,037_S_0566,ADNI 2,M,80.3,MCI,4,ADNI2 Year 2 Visit,8/05/2013,86.1,17.0,2.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_0566_MR_localizer__br_raw_20130806083705430_3_S197309_I384398.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_0566/localizer/2013-08-05_14_39_54.0/S197309/ADNI_037_S_0566_MR_localizer__br_raw_20130806083705430_3_S197309_I384398.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 1 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+162,037_S_0566,ADNI 2,M,72.5,MCI,4,ADNI2 Year 4 Visit,7/29/2015,88.1,14.0,2.0,3.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_0566_MR_localizer__br_raw_20121206141439156_3_S176622_I349853.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_0566/localizer/2012-12-06_12_37_09.0/S176622/ADNI_037_S_0566_MR_localizer__br_raw_20121206141439156_3_S176622_I349853.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 2 0 2]
+ [0 2 2 ... 2 3 0]
+ [0 2 2 ... 3 0 0]]"
+163,037_S_0566,ADNI 2,M,72.5,MCI,4,ADNI2 Year 4 Visit,7/29/2015,88.1,14.0,2.0,3.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_0566_MR_localizer__br_raw_20150730121740938_3_S267457_I503233.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_0566/localizer/2015-07-29_14_42_31.0/S267457/ADNI_037_S_0566_MR_localizer__br_raw_20150730121740938_3_S267457_I503233.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+164,037_S_0566,ADNI 2,M,72.5,MCI,4,ADNI2 Year 4 Visit,7/29/2015,88.1,14.0,2.0,3.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_0566_MR_localizer__br_raw_20150730121750829_3_S267457_I503228.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_0566/localizer/2015-07-29_14_42_31.0/S267457/ADNI_037_S_0566_MR_localizer__br_raw_20150730121750829_3_S267457_I503228.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+165,037_S_0566,ADNI 2,M,72.5,MCI,4,ADNI2 Year 4 Visit,7/29/2015,88.1,14.0,2.0,3.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_0566_MR_localizer__br_raw_20130806083705430_3_S197309_I384398.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_0566/localizer/2013-08-05_14_39_54.0/S197309/ADNI_037_S_0566_MR_localizer__br_raw_20130806083705430_3_S197309_I384398.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 1 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+166,037_S_0566,ADNI 2,M,72.5,MCI,4,ADNI2 Year 4 Visit,7/29/2015,88.1,14.0,2.0,3.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_0566_MR_localizer__br_raw_20121206141439156_3_S176622_I349853.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_0566/localizer/2012-12-06_12_37_09.0/S176622/ADNI_037_S_0566_MR_localizer__br_raw_20121206141439156_3_S176622_I349853.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 2 0 2]
+ [0 2 2 ... 2 3 0]
+ [0 2 2 ... 3 0 0]]"
+167,037_S_0566,ADNI 2,M,72.5,MCI,4,ADNI2 Year 4 Visit,7/29/2015,88.1,14.0,2.0,3.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_0566_MR_localizer__br_raw_20150730121740938_3_S267457_I503233.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_0566/localizer/2015-07-29_14_42_31.0/S267457/ADNI_037_S_0566_MR_localizer__br_raw_20150730121740938_3_S267457_I503233.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+168,037_S_0566,ADNI 2,M,72.5,MCI,4,ADNI2 Year 4 Visit,7/29/2015,88.1,14.0,2.0,3.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_0566_MR_localizer__br_raw_20150730121750829_3_S267457_I503228.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_0566/localizer/2015-07-29_14_42_31.0/S267457/ADNI_037_S_0566_MR_localizer__br_raw_20150730121750829_3_S267457_I503228.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+169,037_S_0566,ADNI 2,M,72.5,MCI,4,ADNI2 Year 4 Visit,7/29/2015,88.1,14.0,2.0,3.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_0566_MR_localizer__br_raw_20130806083705430_3_S197309_I384398.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_0566/localizer/2013-08-05_14_39_54.0/S197309/ADNI_037_S_0566_MR_localizer__br_raw_20130806083705430_3_S197309_I384398.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 1 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+170,037_S_0588,ADNI 2,M,93.3,MCI,4,ADNI2 Year 1 Visit,7/25/2012,70.4,11.0,9.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_0588_MR_localizer__br_raw_20120725115833941_3_S158468_I318416.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_0588/localizer/2012-07-25_10_14_51.0/S158468/ADNI_037_S_0588_MR_localizer__br_raw_20120725115833941_3_S158468_I318416.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+171,037_S_1078,ADNI 2,M,90.0,MCI,4,ADNI2 Year 1 Visit,11/28/2012,76.7,23.0,2.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_1078_MR_localizer__br_raw_20150317081636853_3_S251531_I477873.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_1078/localizer/2015-03-16_13_49_38.0/S251531/ADNI_037_S_1078_MR_localizer__br_raw_20150317081636853_3_S251531_I477873.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+172,037_S_1078,ADNI 2,M,90.0,MCI,4,ADNI2 Year 1 Visit,11/28/2012,76.7,23.0,2.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_1078_MR_localizer__br_raw_20150317081611383_3_S251531_I477864.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_1078/localizer/2015-03-16_13_49_38.0/S251531/ADNI_037_S_1078_MR_localizer__br_raw_20150317081611383_3_S251531_I477864.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+173,037_S_1078,ADNI 2,M,90.0,MCI,4,ADNI2 Year 1 Visit,11/28/2012,76.7,23.0,2.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_1078_MR_localizer__br_raw_20151211124949959_3_S328248_I576911.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_1078/localizer/2015-12-11_10_01_26.0/S328248/ADNI_037_S_1078_MR_localizer__br_raw_20151211124949959_3_S328248_I576911.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+174,037_S_1078,ADNI 2,M,90.0,MCI,4,ADNI2 Year 1 Visit,11/28/2012,76.7,23.0,2.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_1078_MR_localizer__br_raw_20121129104452656_3_S175744_I348323.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_1078/localizer/2012-11-28_12_12_03.0/S175744/ADNI_037_S_1078_MR_localizer__br_raw_20121129104452656_3_S175744_I348323.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 1]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+175,037_S_1078,ADNI 2,M,90.0,MCI,4,ADNI2 Year 3 Visit,3/16/2015,79.0,20.0,1.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_1078_MR_localizer__br_raw_20150317081636853_3_S251531_I477873.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_1078/localizer/2015-03-16_13_49_38.0/S251531/ADNI_037_S_1078_MR_localizer__br_raw_20150317081636853_3_S251531_I477873.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+176,037_S_1078,ADNI 2,M,90.0,MCI,4,ADNI2 Year 3 Visit,3/16/2015,79.0,20.0,1.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_1078_MR_localizer__br_raw_20150317081611383_3_S251531_I477864.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_1078/localizer/2015-03-16_13_49_38.0/S251531/ADNI_037_S_1078_MR_localizer__br_raw_20150317081611383_3_S251531_I477864.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+177,037_S_1078,ADNI 2,M,90.0,MCI,4,ADNI2 Year 3 Visit,3/16/2015,79.0,20.0,1.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_1078_MR_localizer__br_raw_20151211124949959_3_S328248_I576911.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_1078/localizer/2015-12-11_10_01_26.0/S328248/ADNI_037_S_1078_MR_localizer__br_raw_20151211124949959_3_S328248_I576911.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+178,037_S_1078,ADNI 2,M,90.0,MCI,4,ADNI2 Year 3 Visit,3/16/2015,79.0,20.0,1.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_1078_MR_localizer__br_raw_20121129104452656_3_S175744_I348323.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_1078/localizer/2012-11-28_12_12_03.0/S175744/ADNI_037_S_1078_MR_localizer__br_raw_20121129104452656_3_S175744_I348323.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 1]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+179,037_S_1078,ADNI 2,M,90.0,MCI,4,ADNI2 Year 3 Visit,3/16/2015,79.0,20.0,1.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_1078_MR_localizer__br_raw_20150317081636853_3_S251531_I477873.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_1078/localizer/2015-03-16_13_49_38.0/S251531/ADNI_037_S_1078_MR_localizer__br_raw_20150317081636853_3_S251531_I477873.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+180,037_S_1078,ADNI 2,M,90.0,MCI,4,ADNI2 Year 3 Visit,3/16/2015,79.0,20.0,1.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_1078_MR_localizer__br_raw_20150317081611383_3_S251531_I477864.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_1078/localizer/2015-03-16_13_49_38.0/S251531/ADNI_037_S_1078_MR_localizer__br_raw_20150317081611383_3_S251531_I477864.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+181,037_S_1078,ADNI 2,M,90.0,MCI,4,ADNI2 Year 3 Visit,3/16/2015,79.0,20.0,1.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_1078_MR_localizer__br_raw_20151211124949959_3_S328248_I576911.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_1078/localizer/2015-12-11_10_01_26.0/S328248/ADNI_037_S_1078_MR_localizer__br_raw_20151211124949959_3_S328248_I576911.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+182,037_S_1078,ADNI 2,M,90.0,MCI,4,ADNI2 Year 3 Visit,3/16/2015,79.0,20.0,1.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_1078_MR_localizer__br_raw_20121129104452656_3_S175744_I348323.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_1078/localizer/2012-11-28_12_12_03.0/S175744/ADNI_037_S_1078_MR_localizer__br_raw_20121129104452656_3_S175744_I348323.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 1]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+183,037_S_1078,ADNI 2,M,87.2,MCI,4,ADNI2 Year 4 Visit,12/11/2015,79.7,16.0,1.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_1078_MR_localizer__br_raw_20150317081636853_3_S251531_I477873.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_1078/localizer/2015-03-16_13_49_38.0/S251531/ADNI_037_S_1078_MR_localizer__br_raw_20150317081636853_3_S251531_I477873.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+184,037_S_1078,ADNI 2,M,87.2,MCI,4,ADNI2 Year 4 Visit,12/11/2015,79.7,16.0,1.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_1078_MR_localizer__br_raw_20150317081611383_3_S251531_I477864.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_1078/localizer/2015-03-16_13_49_38.0/S251531/ADNI_037_S_1078_MR_localizer__br_raw_20150317081611383_3_S251531_I477864.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+185,037_S_1078,ADNI 2,M,87.2,MCI,4,ADNI2 Year 4 Visit,12/11/2015,79.7,16.0,1.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_1078_MR_localizer__br_raw_20151211124949959_3_S328248_I576911.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_1078/localizer/2015-12-11_10_01_26.0/S328248/ADNI_037_S_1078_MR_localizer__br_raw_20151211124949959_3_S328248_I576911.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+186,037_S_1078,ADNI 2,M,87.2,MCI,4,ADNI2 Year 4 Visit,12/11/2015,79.7,16.0,1.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_1078_MR_localizer__br_raw_20121129104452656_3_S175744_I348323.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_1078/localizer/2012-11-28_12_12_03.0/S175744/ADNI_037_S_1078_MR_localizer__br_raw_20121129104452656_3_S175744_I348323.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 1]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+187,037_S_4879,ADNI 2,F,50.6,AD,4,ADNI2 Year 1 Visit,9/09/2013,80.7,20.0,2.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_037_S_4879_MR_localizer__br_raw_20130909150331796_3_S199935_I388713.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/037_S_4879/localizer/2013-09-09_13_41_18.0/S199935/ADNI_037_S_4879_MR_localizer__br_raw_20130909150331796_3_S199935_I388713.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+188,041_S_1368,ADNI 1,F,68.2,AD,3,ADNI1/GO Month 12,3/24/2008,76.3,14.0,3.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_041_S_1368_MR_localizer__br_raw_20080325151705874_3_S47376_I99370.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/041_S_1368/localizer/2008-03-24_11_26_09.0/S47376/ADNI_041_S_1368_MR_localizer__br_raw_20080325151705874_3_S47376_I99370.dcm,"[[0 9 8 ... 7 6 7]
+ [0 9 9 ... 7 6 6]
+ [0 8 7 ... 6 5 6]
+ ...
+ [0 7 5 ... 6 4 7]
+ [0 8 5 ... 7 5 7]
+ [0 9 7 ... 8 6 8]]"
+189,041_S_1368,ADNI 1,F,68.2,AD,3,ADNI1/GO Month 12,3/24/2008,76.3,14.0,3.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_041_S_1368_MR_localizer__br_raw_20090317105730657_3_S64656_I139139.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/041_S_1368/localizer/2009-03-16_09_20_13.0/S64656/ADNI_041_S_1368_MR_localizer__br_raw_20090317105730657_3_S64656_I139139.dcm,"[[ 0  9 10 ...  7 10 11]
+ [ 0  9 10 ...  6  8 10]
+ [ 0  7  9 ...  6  6  8]
+ ...
+ [ 0  6  5 ...  8 11  9]
+ [ 0  8  7 ...  6 11 11]
+ [ 0  9  9 ...  6  9 12]]"
+190,041_S_1368,ADNI 1,F,68.2,AD,3,ADNI1/GO Month 12,3/24/2008,76.3,14.0,3.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_041_S_1368_MR_localizer__br_raw_20080325151705218_3_S47375_I99367.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/041_S_1368/localizer/2008-03-24_11_24_10.0/S47375/ADNI_041_S_1368_MR_localizer__br_raw_20080325151705218_3_S47375_I99367.dcm,"[[0 6 5 ... 5 8 7]
+ [0 6 5 ... 6 8 8]
+ [0 6 5 ... 7 8 8]
+ ...
+ [0 6 6 ... 6 6 6]
+ [0 6 6 ... 5 6 6]
+ [0 6 5 ... 4 7 6]]"
+191,041_S_1368,ADNI 1,F,68.2,AD,3,ADNI1/GO Month 12,3/24/2008,76.3,14.0,3.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_041_S_1368_MR_localizer__br_raw_20080325151705874_3_S47376_I99370.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/041_S_1368/localizer/2008-03-24_11_26_09.0/S47376/ADNI_041_S_1368_MR_localizer__br_raw_20080325151705874_3_S47376_I99370.dcm,"[[0 9 8 ... 7 6 7]
+ [0 9 9 ... 7 6 6]
+ [0 8 7 ... 6 5 6]
+ ...
+ [0 7 5 ... 6 4 7]
+ [0 8 5 ... 7 5 7]
+ [0 9 7 ... 8 6 8]]"
+192,041_S_1368,ADNI 1,F,68.2,AD,3,ADNI1/GO Month 12,3/24/2008,76.3,14.0,3.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_041_S_1368_MR_localizer__br_raw_20090317105730657_3_S64656_I139139.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/041_S_1368/localizer/2009-03-16_09_20_13.0/S64656/ADNI_041_S_1368_MR_localizer__br_raw_20090317105730657_3_S64656_I139139.dcm,"[[ 0  9 10 ...  7 10 11]
+ [ 0  9 10 ...  6  8 10]
+ [ 0  7  9 ...  6  6  8]
+ ...
+ [ 0  6  5 ...  8 11  9]
+ [ 0  8  7 ...  6 11 11]
+ [ 0  9  9 ...  6  9 12]]"
+193,041_S_1368,ADNI 1,F,68.2,AD,3,ADNI1/GO Month 12,3/24/2008,76.3,14.0,3.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_041_S_1368_MR_localizer__br_raw_20080325151705218_3_S47375_I99367.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/041_S_1368/localizer/2008-03-24_11_24_10.0/S47375/ADNI_041_S_1368_MR_localizer__br_raw_20080325151705218_3_S47375_I99367.dcm,"[[0 6 5 ... 5 8 7]
+ [0 6 5 ... 6 8 8]
+ [0 6 5 ... 7 8 8]
+ ...
+ [0 6 6 ... 6 6 6]
+ [0 6 6 ... 5 6 6]
+ [0 6 5 ... 4 7 6]]"
+194,041_S_1368,ADNI 1,F,68.6,AD,3,ADNI1/GO Month 24,3/16/2009,77.3,5.0,3.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_041_S_1368_MR_localizer__br_raw_20080325151705874_3_S47376_I99370.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/041_S_1368/localizer/2008-03-24_11_26_09.0/S47376/ADNI_041_S_1368_MR_localizer__br_raw_20080325151705874_3_S47376_I99370.dcm,"[[0 9 8 ... 7 6 7]
+ [0 9 9 ... 7 6 6]
+ [0 8 7 ... 6 5 6]
+ ...
+ [0 7 5 ... 6 4 7]
+ [0 8 5 ... 7 5 7]
+ [0 9 7 ... 8 6 8]]"
+195,041_S_1368,ADNI 1,F,68.6,AD,3,ADNI1/GO Month 24,3/16/2009,77.3,5.0,3.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_041_S_1368_MR_localizer__br_raw_20090317105730657_3_S64656_I139139.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/041_S_1368/localizer/2009-03-16_09_20_13.0/S64656/ADNI_041_S_1368_MR_localizer__br_raw_20090317105730657_3_S64656_I139139.dcm,"[[ 0  9 10 ...  7 10 11]
+ [ 0  9 10 ...  6  8 10]
+ [ 0  7  9 ...  6  6  8]
+ ...
+ [ 0  6  5 ...  8 11  9]
+ [ 0  8  7 ...  6 11 11]
+ [ 0  9  9 ...  6  9 12]]"
+196,041_S_1368,ADNI 1,F,68.6,AD,3,ADNI1/GO Month 24,3/16/2009,77.3,5.0,3.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_041_S_1368_MR_localizer__br_raw_20080325151705218_3_S47375_I99367.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/041_S_1368/localizer/2008-03-24_11_24_10.0/S47375/ADNI_041_S_1368_MR_localizer__br_raw_20080325151705218_3_S47375_I99367.dcm,"[[0 6 5 ... 5 8 7]
+ [0 6 5 ... 6 8 8]
+ [0 6 5 ... 7 8 8]
+ ...
+ [0 6 6 ... 6 6 6]
+ [0 6 6 ... 5 6 6]
+ [0 6 5 ... 4 7 6]]"
+197,051_S_4980,ADNI 2,M,53.5,AD,4,ADNI2 Year 1 Visit,12/16/2013,88.5,23.0,2.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_051_S_4980_MR_localizer__br_raw_20131216142440742_3_S208285_I401813.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/051_S_4980/localizer/2013-12-16_10_18_05.0/S208285/ADNI_051_S_4980_MR_localizer__br_raw_20131216142440742_3_S208285_I401813.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 1 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+198,051_S_5005,ADNI 2,M,68.0,AD,4,ADNI2 Year 1 Visit,12/11/2013,79.3,19.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_051_S_5005_MR_localizer__br_raw_20131211162832727_3_S207934_I401271.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/051_S_5005/localizer/2013-12-11_10_18_51.0/S207934/ADNI_051_S_5005_MR_localizer__br_raw_20131211162832727_3_S207934_I401271.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 1]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+199,051_S_5005,ADNI 2,M,68.0,AD,4,ADNI2 Year 1 Visit,12/11/2013,79.3,19.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_051_S_5005_MR_localizer__br_raw_20131211162827969_3_S207934_I401279.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/051_S_5005/localizer/2013-12-11_10_18_51.0/S207934/ADNI_051_S_5005_MR_localizer__br_raw_20131211162827969_3_S207934_I401279.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 1]
+ [0 1 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+200,051_S_5005,ADNI 2,M,68.0,AD,4,ADNI2 Year 1 Visit,12/11/2013,79.3,19.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_051_S_5005_MR_localizer__br_raw_20131211162832727_3_S207934_I401271.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/051_S_5005/localizer/2013-12-11_10_18_51.0/S207934/ADNI_051_S_5005_MR_localizer__br_raw_20131211162832727_3_S207934_I401271.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 1]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+201,051_S_5005,ADNI 2,M,68.0,AD,4,ADNI2 Year 1 Visit,12/11/2013,79.3,19.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_051_S_5005_MR_localizer__br_raw_20131211162827969_3_S207934_I401279.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/051_S_5005/localizer/2013-12-11_10_18_51.0/S207934/ADNI_051_S_5005_MR_localizer__br_raw_20131211162827969_3_S207934_I401279.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 1]
+ [0 1 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+202,057_S_0941,ADNI 1,F,62.5,MCI,4,ADNI1/GO Month 24,10/22/2008,75.4,12.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_057_S_0941_MR_Localizer__br_raw_20081023140830343_3_S57834_I123128.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/057_S_0941/Localizer/2008-10-22_14_47_12.0/S57834/ADNI_057_S_0941_MR_Localizer__br_raw_20081023140830343_3_S57834_I123128.dcm,"[[0 0 0 ... 0 0 0]
+ [0 2 3 ... 2 2 0]
+ [0 0 2 ... 3 2 0]
+ ...
+ [0 0 1 ... 2 2 0]
+ [0 2 3 ... 2 2 0]
+ [0 0 0 ... 0 0 0]]"
+203,057_S_1007,ADNI 1,M,104.0,MCI,3,ADNI1/GO Month 24,11/05/2008,74.5,25.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_057_S_1007_MR_Localizer__br_raw_20081105132412140_3_S58305_I125228.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/057_S_1007/Localizer/2008-11-05_11_47_42.0/S58305/ADNI_057_S_1007_MR_Localizer__br_raw_20081105132412140_3_S58305_I125228.dcm,"[[0 0 0 ... 0 0 0]
+ [0 1 1 ... 3 2 0]
+ [0 2 1 ... 0 0 0]
+ ...
+ [0 2 1 ... 0 1 0]
+ [0 1 1 ... 1 1 0]
+ [0 0 0 ... 0 0 0]]"
+204,057_S_1373,ADNI 1,M,63.0,AD,4,ADNI1/GO Month 12,4/11/2008,76.5,12.0,1.0,2.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_057_S_1373_MR_Localizer__br_raw_20090408150536515_3_S65870_I141130.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/057_S_1373/Localizer/2009-04-08_13_14_01.0/S65870/ADNI_057_S_1373_MR_Localizer__br_raw_20090408150536515_3_S65870_I141130.dcm,"[[0 0 0 ... 0 0 0]
+ [0 1 0 ... 1 3 0]
+ [0 0 0 ... 1 3 0]
+ ...
+ [0 3 2 ... 3 4 0]
+ [0 2 2 ... 1 2 0]
+ [0 0 0 ... 0 0 0]]"
+205,057_S_1373,ADNI 1,M,63.0,AD,4,ADNI1/GO Month 12,4/11/2008,76.5,12.0,1.0,2.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_057_S_1373_MR_Localizer__br_raw_20080411141810203_3_S48648_I102269.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/057_S_1373/Localizer/2008-04-11_10_15_31.0/S48648/ADNI_057_S_1373_MR_Localizer__br_raw_20080411141810203_3_S48648_I102269.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 2 ... 2 4 0]
+ [0 2 1 ... 0 2 0]
+ ...
+ [0 2 1 ... 1 1 0]
+ [0 0 0 ... 2 1 0]
+ [0 0 0 ... 0 0 0]]"
+206,057_S_1373,ADNI 1,M,64.2,AD,4,ADNI1/GO Month 24,4/08/2009,77.5,10.0,2.0,2.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_057_S_1373_MR_Localizer__br_raw_20090408150536515_3_S65870_I141130.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/057_S_1373/Localizer/2009-04-08_13_14_01.0/S65870/ADNI_057_S_1373_MR_Localizer__br_raw_20090408150536515_3_S65870_I141130.dcm,"[[0 0 0 ... 0 0 0]
+ [0 1 0 ... 1 3 0]
+ [0 0 0 ... 1 3 0]
+ ...
+ [0 3 2 ... 3 4 0]
+ [0 2 2 ... 1 2 0]
+ [0 0 0 ... 0 0 0]]"
+207,057_S_1373,ADNI 1,M,64.2,AD,4,ADNI1/GO Month 24,4/08/2009,77.5,10.0,2.0,2.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_057_S_1373_MR_Localizer__br_raw_20080411141810203_3_S48648_I102269.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/057_S_1373/Localizer/2008-04-11_10_15_31.0/S48648/ADNI_057_S_1373_MR_Localizer__br_raw_20080411141810203_3_S48648_I102269.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 2 ... 2 4 0]
+ [0 2 1 ... 0 2 0]
+ ...
+ [0 2 1 ... 1 1 0]
+ [0 0 0 ... 2 1 0]
+ [0 0 0 ... 0 0 0]]"
+208,062_S_0730,ADNI 1,F,57.2,AD,4,ADNI1/GO Month 12,8/08/2007,71.8,16.0,4.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_062_S_0730_MR_Localizer__br_raw_20080805084355903_3_S54795_I115259.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/062_S_0730/Localizer/2008-08-04_08_41_11.0/S54795/ADNI_062_S_0730_MR_Localizer__br_raw_20080805084355903_3_S54795_I115259.dcm,"[[0 0 0 ... 0 0 0]
+ [0 1 2 ... 3 1 0]
+ [0 3 3 ... 2 1 0]
+ ...
+ [0 0 3 ... 1 1 0]
+ [0 1 2 ... 2 0 0]
+ [0 0 0 ... 0 0 0]]"
+209,062_S_0730,ADNI 1,F,57.2,AD,4,ADNI1/GO Month 12,8/08/2007,71.8,16.0,4.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_062_S_0730_MR_Localizer__br_raw_20070808153733135_3_S37053_I66029.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/062_S_0730/Localizer/2007-08-08_14_00_15.0/S37053/ADNI_062_S_0730_MR_Localizer__br_raw_20070808153733135_3_S37053_I66029.dcm,"[[0 0 0 ... 0 0 0]
+ [0 5 6 ... 6 8 7]
+ [0 3 5 ... 4 3 5]
+ ...
+ [0 5 5 ... 4 3 2]
+ [0 4 4 ... 4 5 3]
+ [0 4 1 ... 2 2 1]]"
+210,062_S_0730,ADNI 1,F,59.4,AD,4,ADNI1/GO Month 24,8/04/2008,72.7,8.0,9.0,2.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_062_S_0730_MR_Localizer__br_raw_20080805084355903_3_S54795_I115259.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/062_S_0730/Localizer/2008-08-04_08_41_11.0/S54795/ADNI_062_S_0730_MR_Localizer__br_raw_20080805084355903_3_S54795_I115259.dcm,"[[0 0 0 ... 0 0 0]
+ [0 1 2 ... 3 1 0]
+ [0 3 3 ... 2 1 0]
+ ...
+ [0 0 3 ... 1 1 0]
+ [0 1 2 ... 2 0 0]
+ [0 0 0 ... 0 0 0]]"
+211,062_S_0730,ADNI 1,F,59.4,AD,4,ADNI1/GO Month 24,8/04/2008,72.7,8.0,9.0,2.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_062_S_0730_MR_Localizer__br_raw_20070808153733135_3_S37053_I66029.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/062_S_0730/Localizer/2007-08-08_14_00_15.0/S37053/ADNI_062_S_0730_MR_Localizer__br_raw_20070808153733135_3_S37053_I66029.dcm,"[[0 0 0 ... 0 0 0]
+ [0 5 6 ... 6 8 7]
+ [0 3 5 ... 4 3 5]
+ ...
+ [0 5 5 ... 4 3 2]
+ [0 4 4 ... 4 5 3]
+ [0 4 1 ... 2 2 1]]"
+212,067_S_0029,ADNI 1,M,70.8,AD,4,ADNI1/GO Month 12,11/14/2006,65.3,16.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_067_S_0029_MR_Localizer__br_raw_20061116095913251_3_S22591_I29788.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/067_S_0029/Localizer/2006-11-14_09_20_01.0/S22591/ADNI_067_S_0029_MR_Localizer__br_raw_20061116095913251_3_S22591_I29788.dcm,"[[0 4 3 ... 5 4 0]
+ [0 3 3 ... 5 4 1]
+ [0 3 2 ... 5 4 2]
+ ...
+ [0 3 4 ... 1 3 5]
+ [0 3 4 ... 2 3 4]
+ [0 4 4 ... 4 4 2]]"
+213,067_S_0029,ADNI 1,M,70.8,AD,4,ADNI1/GO Month 12,11/14/2006,65.3,16.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_067_S_0029_MR_Localizer__br_raw_20080520093535317_3_S50388_I106200.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/067_S_0029/Localizer/2008-05-19_10_58_40.0/S50388/ADNI_067_S_0029_MR_Localizer__br_raw_20080520093535317_3_S50388_I106200.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+214,067_S_0029,ADNI 1,M,70.8,AD,4,ADNI1/GO Month 24,5/19/2008,66.8,15.0,2.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_067_S_0029_MR_Localizer__br_raw_20061116095913251_3_S22591_I29788.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/067_S_0029/Localizer/2006-11-14_09_20_01.0/S22591/ADNI_067_S_0029_MR_Localizer__br_raw_20061116095913251_3_S22591_I29788.dcm,"[[0 4 3 ... 5 4 0]
+ [0 3 3 ... 5 4 1]
+ [0 3 2 ... 5 4 2]
+ ...
+ [0 3 4 ... 1 3 5]
+ [0 3 4 ... 2 3 4]
+ [0 4 4 ... 4 4 2]]"
+215,067_S_0029,ADNI 1,M,70.8,AD,4,ADNI1/GO Month 24,5/19/2008,66.8,15.0,2.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_067_S_0029_MR_Localizer__br_raw_20080520093535317_3_S50388_I106200.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/067_S_0029/Localizer/2008-05-19_10_58_40.0/S50388/ADNI_067_S_0029_MR_Localizer__br_raw_20080520093535317_3_S50388_I106200.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+216,067_S_0076,ADNI 1,M,58.8,AD,4,ADNI1/GO Month 24,10/22/2008,81.3,23.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_067_S_0076_MR_Localizer__br_raw_20081022161847202_3_S57779_I122835.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/067_S_0076/Localizer/2008-10-22_07_20_14.0/S57779/ADNI_067_S_0076_MR_Localizer__br_raw_20081022161847202_3_S57779_I122835.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+217,067_S_0077,ADNI 1,M,60.8,MCI,3,ADNI1/GO Month 24,6/23/2008,82.3,19.0,2.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_067_S_0077_MR_Localizer__br_raw_20080624164033215_3_S52075_I110537.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/067_S_0077/Localizer/2008-06-23_11_09_19.0/S52075/ADNI_067_S_0077_MR_Localizer__br_raw_20080624164033215_3_S52075_I110537.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+218,067_S_1253,ADNI 1,F,66.2,AD,3,ADNI1/GO Month 12,5/13/2008,63.9,19.0,2.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_067_S_1253_MR_Localizer__br_raw_20080514115306335_3_S50070_I105506.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/067_S_1253/Localizer/2008-05-13_07_32_37.0/S50070/ADNI_067_S_1253_MR_Localizer__br_raw_20080514115306335_3_S50070_I105506.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 12  5 ...  6  8  0]
+ [ 0  8  9 ...  9  7  0]
+ ...
+ [ 0 11 10 ... 11  8  0]
+ [ 0  8  9 ... 11  9  0]
+ [ 0  0  0 ...  0  0  0]]"
+219,067_S_4728,ADNI 2,M,70.9,AD,4,ADNI2 Year 1 Visit,5/31/2013,83.0,13.0,2.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_067_S_4728_MR_localizer__br_raw_20130531141004753_9_S191068_I374769.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/067_S_4728/localizer/2013-05-31_09_22_03.0/S191068/ADNI_067_S_4728_MR_localizer__br_raw_20130531141004753_9_S191068_I374769.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+220,073_S_0518,ADNI 1,M,72.2,MCI,4,ADNI1/GO Month 24,12/01/2008,71.7,27.0,3.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_073_S_0518_MR_Localizer__br_raw_20081202131652950_3_S60431_I129001.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/073_S_0518/Localizer/2008-12-01_15_44_27.0/S60431/ADNI_073_S_0518_MR_Localizer__br_raw_20081202131652950_3_S60431_I129001.dcm,"[[0 0 0 ... 0 0 0]
+ [0 3 2 ... 1 3 0]
+ [0 1 4 ... 2 3 0]
+ ...
+ [0 3 3 ... 2 4 0]
+ [0 3 5 ... 4 4 0]
+ [0 0 0 ... 0 0 0]]"
+221,073_S_4853,ADNI 2,F,55.5,AD,4,ADNI2 Year 1 Visit,8/30/2013,72.0,25.0,4.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_073_S_4853_MR_localizer__br_raw_20130909113205800_3_S199874_I388636.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/073_S_4853/localizer/2013-08-30_11_44_07.0/S199874/ADNI_073_S_4853_MR_localizer__br_raw_20130909113205800_3_S199874_I388636.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 1 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+222,082_S_1079,ADNI 1,M,106.9,AD,4,ADNI1/GO Month 12,11/27/2007,79.2,22.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_082_S_1079_MR_Localizer__br_raw_20140715144318633_3_S225129_I435688.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/082_S_1079/Localizer/2007-12-13_11_27_20.0/S225129/ADNI_082_S_1079_MR_Localizer__br_raw_20140715144318633_3_S225129_I435688.dcm,"[[0 5 5 ... 2 6 6]
+ [0 5 5 ... 2 6 6]
+ [0 4 5 ... 3 6 7]
+ ...
+ [0 4 4 ... 2 2 1]
+ [0 5 4 ... 1 3 2]
+ [0 5 5 ... 1 5 4]]"
+223,082_S_1079,ADNI 1,M,106.9,AD,4,ADNI1/GO Month 12,11/27/2007,79.2,22.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_082_S_1079_MR_Localizer__br_raw_20080228163311558_3_S46346_I93703.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/082_S_1079/Localizer/2007-11-27_09_34_10.0/S46346/ADNI_082_S_1079_MR_Localizer__br_raw_20080228163311558_3_S46346_I93703.dcm,"[[0 3 3 ... 2 1 2]
+ [0 3 3 ... 2 1 2]
+ [0 3 3 ... 2 2 3]
+ ...
+ [0 2 1 ... 1 1 2]
+ [0 2 2 ... 2 1 2]
+ [0 3 3 ... 2 1 2]]"
+224,082_S_1079,ADNI 1,M,106.7,AD,4,ADNI1/GO Month 12,12/13/2007,79.0,22.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_082_S_1079_MR_Localizer__br_raw_20140715144318633_3_S225129_I435688.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/082_S_1079/Localizer/2007-12-13_11_27_20.0/S225129/ADNI_082_S_1079_MR_Localizer__br_raw_20140715144318633_3_S225129_I435688.dcm,"[[0 5 5 ... 2 6 6]
+ [0 5 5 ... 2 6 6]
+ [0 4 5 ... 3 6 7]
+ ...
+ [0 4 4 ... 2 2 1]
+ [0 5 4 ... 1 3 2]
+ [0 5 5 ... 1 5 4]]"
+225,082_S_1079,ADNI 1,M,106.7,AD,4,ADNI1/GO Month 12,12/13/2007,79.0,22.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_082_S_1079_MR_Localizer__br_raw_20080228163311558_3_S46346_I93703.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/082_S_1079/Localizer/2007-11-27_09_34_10.0/S46346/ADNI_082_S_1079_MR_Localizer__br_raw_20080228163311558_3_S46346_I93703.dcm,"[[0 3 3 ... 2 1 2]
+ [0 3 3 ... 2 1 2]
+ [0 3 3 ... 2 2 3]
+ ...
+ [0 2 1 ... 1 1 2]
+ [0 2 2 ... 2 1 2]
+ [0 3 3 ... 2 1 2]]"
+226,109_S_1157,ADNI 1,F,53.1,AD,4,ADNI1/GO Month 12,1/23/2008,86.0,16.0,1.0,2.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_109_S_1157_MR_Localizer__br_raw_20081031102638416_3_S58166_I124713.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/109_S_1157/Localizer/2008-01-23_13_56_26.0/S58166/ADNI_109_S_1157_MR_Localizer__br_raw_20081031102638416_3_S58166_I124713.dcm,"[[0 4 2 ... 2 1 1]
+ [0 4 1 ... 2 1 0]
+ [0 3 1 ... 1 1 0]
+ ...
+ [0 2 1 ... 2 2 4]
+ [0 3 2 ... 2 2 3]
+ [0 4 2 ... 2 1 2]]"
+227,116_S_0487,ADNI 1,M,73.5,AD,4,ADNI1/GO Month 24,6/06/2008,78.5,16.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_0487_MR_Localizer__br_raw_20080609105500243_3_S51213_I108811.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_0487/Localizer/2008-06-06_10_46_56.0/S51213/ADNI_116_S_0487_MR_Localizer__br_raw_20080609105500243_3_S51213_I108811.dcm,"[[0 2 2 ... 1 1 1]
+ [0 2 2 ... 1 1 1]
+ [0 2 2 ... 1 2 2]
+ ...
+ [0 2 3 ... 2 2 2]
+ [0 2 3 ... 2 2 2]
+ [0 2 2 ... 2 2 1]]"
+228,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_localizer__br_raw_20121107155920047_3_S173717_I344603.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/localizer/2012-11-07_13_00_25.0/S173717/ADNI_116_S_4338_MR_localizer__br_raw_20121107155920047_3_S173717_I344603.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 1]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+229,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155916981_11_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155916981_11_S173718_I344608.dcm,"[[  0   0   0 ...   0   0   0]
+ [  0  95  83 ... 129  80  81]
+ [  0  60  81 ...  73  39  62]
+ ...
+ [  0  18  19 ...  24   8  13]
+ [  0  25  24 ...  18  23  20]
+ [  0  22  26 ...  19  17  14]]"
+230,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155917171_22_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155917171_22_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 14 15 ... 30 22 28]
+ [ 0 31 62 ... 42 45 43]
+ ...
+ [ 0 11 17 ... 18 28 27]
+ [ 0 16 18 ... 18 24 25]
+ [ 0 18 12 ... 22 22 20]]"
+231,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918575_38_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918575_38_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 29 18 ... 15 22 13]
+ [ 0 19 12 ... 24 17 28]
+ ...
+ [ 0 23 17 ... 17 21 16]
+ [ 0 28 15 ... 21 30 24]
+ [ 0 12 26 ... 13 16 26]]"
+232,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918413_12_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918413_12_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 22 21 ... 74 36 37]
+ [ 0 34 49 ... 45 26 45]
+ ...
+ [ 0 15 21 ... 10 22 17]
+ [ 0 19 25 ... 15 23 26]
+ [ 0 14 20 ... 14 20 23]]"
+233,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155916497_29_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155916497_29_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 16 15 ... 17 24 19]
+ [ 0 15 27 ... 24 21 29]
+ ...
+ [ 0 24 20 ... 19 11 30]
+ [ 0 29 14 ... 24 17 15]
+ [ 0 17 16 ... 17 17 18]]"
+234,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918170_30_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918170_30_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 15 16 ... 18 17 18]
+ [ 0 15 32 ... 19 19 26]
+ ...
+ [ 0 27 22 ... 16 28 17]
+ [ 0 23 22 ... 23 34 23]
+ [ 0 23 20 ... 27 13 20]]"
+235,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155919976_41_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155919976_41_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 19 20 ... 12 29 15]
+ [ 0 19 10 ... 17 15 26]
+ ...
+ [ 0 28 32 ... 16 15 17]
+ [ 0 15 11 ... 13 17 23]
+ [ 0 19 23 ... 21 21 22]]"
+236,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155920182_1_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155920182_1_S173718_I344608.dcm,"[[  0   0   0 ...   0   0   0]
+ [  0 145 111 ... 224 180 170]
+ [  0 287 221 ... 260 238 218]
+ ...
+ [  0  21  17 ...  16  23  14]
+ [  0  11  22 ...  19  32  20]
+ [  0  29  38 ...  24  25  16]]"
+237,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155919051_31_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155919051_31_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 17 17 ... 30 14 18]
+ [ 0 24 12 ... 15 20 22]
+ ...
+ [ 0 18 13 ... 23 19 15]
+ [ 0 24 15 ... 17 14 21]
+ [ 0 18 13 ... 10 20 21]]"
+238,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155920214_7_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155920214_7_S173718_I344608.dcm,"[[  0   0   0 ...   0   0   0]
+ [  0  48  71 ...  96  94 122]
+ [  0  48  33 ...  62  58  83]
+ ...
+ [  0  15   9 ...  18  17  17]
+ [  0  17  20 ...  19  27  14]
+ [  0  30  12 ...  16  19  15]]"
+239,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918831_28_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918831_28_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 16 14 ... 20 13 30]
+ [ 0 20 26 ... 23 27 27]
+ ...
+ [ 0 23 19 ... 26 17 16]
+ [ 0 26 18 ... 21 20  9]
+ [ 0 25 14 ... 12 14 21]]"
+240,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155915829_15_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155915829_15_S173718_I344608.dcm,"[[  0   0   0 ...   0   0   0]
+ [  0  25  45 ...  79  86  70]
+ [  0  24  76 ... 126 125  50]
+ ...
+ [  0  28  20 ...  17  18  17]
+ [  0  13  19 ...  20  14  20]
+ [  0  36  23 ...  13  21  22]]"
+241,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155916965_33_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155916965_33_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 20 15 ... 19 16 26]
+ [ 0 18 21 ... 19 21 17]
+ ...
+ [ 0 18 20 ... 25 21 25]
+ [ 0 19 26 ... 15 19 15]
+ [ 0 23 17 ... 26 24 29]]"
+242,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155916691_17_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155916691_17_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 45 30 ... 83 73 67]
+ [ 0 26 40 ... 25 18 32]
+ ...
+ [ 0 19 16 ... 20 28 23]
+ [ 0 16 26 ... 19 14 26]
+ [ 0 26 24 ... 22  8 31]]"
+243,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155919279_8_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155919279_8_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 27 31 ... 40 81 50]
+ [ 0 29 61 ... 44 36 38]
+ ...
+ [ 0 12 23 ... 14 16 14]
+ [ 0 22 25 ... 15 16 35]
+ [ 0 17 21 ... 13 16 18]]"
+244,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155920456_39_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155920456_39_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 17 17 ... 18 27 13]
+ [ 0 17 17 ... 18 17 14]
+ ...
+ [ 0 18 19 ... 18 26 16]
+ [ 0 22 14 ... 25 26 11]
+ [ 0 15 10 ... 17  9 17]]"
+245,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155917131_20_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155917131_20_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 28 30 ... 29 21 16]
+ [ 0 15 23 ... 20 32 25]
+ ...
+ [ 0 17 18 ... 12 17 25]
+ [ 0 23 18 ... 14 19 30]
+ [ 0 20 17 ... 21 23 17]]"
+246,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918953_40_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918953_40_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 24 24 ... 22 21 22]
+ [ 0 22 16 ... 30 20 19]
+ ...
+ [ 0 25 20 ... 29 14 28]
+ [ 0 19 13 ... 31 28 16]
+ [ 0  7 22 ... 16 26 16]]"
+247,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918050_18_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918050_18_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 41 51 ... 36 34 45]
+ [ 0 25 20 ... 17 41 37]
+ ...
+ [ 0 11 14 ... 17 16 21]
+ [ 0 18 20 ... 27 23 18]
+ [ 0 28 24 ... 27 16 14]]"
+248,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155915999_4_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155915999_4_S173718_I344608.dcm,"[[  0   0   0 ...   0   0   0]
+ [  0 103  74 ... 136 136 136]
+ [  0 164 153 ... 142 194 184]
+ ...
+ [  0  13  26 ...  13  17  19]
+ [  0  20  20 ...  16  27  14]
+ [  0  15  16 ...  24  24  12]]"
+249,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918326_25_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918326_25_S173718_I344608.dcm,"[[  0   0   0 ...   0   0   0]
+ [  0  23  24 ...  35  31  36]
+ [  0 106 112 ... 105  94  82]
+ ...
+ [  0  25  20 ...  14  26  16]
+ [  0  12  28 ...  11  16  15]
+ [  0  13   8 ...  31  27  36]]"
+250,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155916923_32_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155916923_32_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 13 25 ... 22 21 34]
+ [ 0 24 16 ... 23 19 21]
+ ...
+ [ 0 20 20 ... 28 20 20]
+ [ 0 15 22 ... 22 26 14]
+ [ 0 26 25 ... 13 12 21]]"
+251,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155917812_44_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155917812_44_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 16 22 ... 21 24 26]
+ [ 0 23  9 ... 12 16 17]
+ ...
+ [ 0 19 26 ... 20 14 15]
+ [ 0 20 16 ... 21 19 16]
+ [ 0 20 20 ... 19 23 24]]"
+252,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155916563_34_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155916563_34_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 29 29 ... 25 21 27]
+ [ 0  9 18 ... 22 17 18]
+ ...
+ [ 0 20 13 ... 26 29 23]
+ [ 0 26 24 ... 13 23 20]
+ [ 0 15 14 ... 18 20 17]]"
+253,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155919770_23_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155919770_23_S173718_I344608.dcm,"[[  0   0   0 ...   0   0   0]
+ [  0  22  17 ...  27  24  31]
+ [  0 104 116 ...  77  67  81]
+ ...
+ [  0  22  16 ...  18  15  24]
+ [  0  19  26 ...  19  12  12]
+ [  0  25  18 ...  24  16  27]]"
+254,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155917356_37_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155917356_37_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 26 18 ... 20 21 25]
+ [ 0 23 38 ... 10 22 22]
+ ...
+ [ 0 22 10 ... 11 13 21]
+ [ 0 18 10 ... 18 28 23]
+ [ 0 18 16 ... 21 17 13]]"
+255,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155917365_45_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155917365_45_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 17 21 ... 18  6 16]
+ [ 0 26 20 ... 10 13 23]
+ ...
+ [ 0 28 17 ... 16 17 12]
+ [ 0 17 15 ... 10 23 14]
+ [ 0 19 13 ... 15 22 19]]"
+256,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155917285_24_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155917285_24_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 25 20 ... 30 36 31]
+ [ 0 66 65 ... 92 67 93]
+ ...
+ [ 0 20 19 ... 25 12 24]
+ [ 0 26 10 ... 18 11 18]
+ [ 0 12 30 ... 23 12 27]]"
+257,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155919086_21_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155919086_21_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 13 27 ... 23 23 29]
+ [ 0 28  8 ... 24 26 27]
+ ...
+ [ 0 30 13 ... 21 24 15]
+ [ 0 13 16 ... 19 17 26]
+ [ 0 19 17 ... 24 17 14]]"
+258,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155915819_5_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155915819_5_S173718_I344608.dcm,"[[  0   0   0 ...   0   0   0]
+ [  0 103 120 ... 176 191 218]
+ [  0  65  71 ...  88  72  81]
+ ...
+ [  0  14  27 ...  22  23  13]
+ [  0  13  17 ...  10  24  16]
+ [  0  15  24 ...  14  15  16]]"
+259,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155916953_14_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155916953_14_S173718_I344608.dcm,"[[  0   0   0 ...   0   0   0]
+ [  0  34  16 ...  87  62  26]
+ [  0  74  59 ... 113  94  50]
+ ...
+ [  0  22  19 ...  17  26  22]
+ [  0  22  16 ...  29  16  14]
+ [  0  14  20 ...  14  25   9]]"
+260,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155917157_9_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155917157_9_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 44 36 ... 36 24 37]
+ [ 0 65 51 ... 47 41 50]
+ ...
+ [ 0 26 13 ... 19 13 21]
+ [ 0 20 19 ... 28 17 23]
+ [ 0 27 13 ... 28 18 14]]"
+261,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155917088_3_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155917088_3_S173718_I344608.dcm,"[[  0   0   0 ...   0   0   0]
+ [  0  47  92 ...  37  68 110]
+ [  0  58  31 ...  75  24  64]
+ ...
+ [  0  12  26 ...  19  16  20]
+ [  0  31  16 ...  24  16  28]
+ [  0  16  28 ...  11  22  18]]"
+262,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918871_13_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918871_13_S173718_I344608.dcm,"[[  0   0   0 ...   0   0   0]
+ [  0  91 132 ...  73 101  86]
+ [  0  64  62 ...  39  50  51]
+ ...
+ [  0  17  10 ...  25  19  16]
+ [  0  27   9 ...  16  19  18]
+ [  0  18  20 ...  27  20  22]]"
+263,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918427_35_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918427_35_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 24 21 ... 26 19 20]
+ [ 0 14 16 ... 22 13 15]
+ ...
+ [ 0 12 18 ... 20 22 12]
+ [ 0 13 19 ... 23 22 27]
+ [ 0 20 19 ... 18 18 15]]"
+264,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155920318_6_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155920318_6_S173718_I344608.dcm,"[[  0   0   0 ...   0   0   0]
+ [  0  65 100 ...  67  50  68]
+ [  0 100  79 ...  71  63  68]
+ ...
+ [  0  26  23 ...  24  21  18]
+ [  0  11  25 ...  23  23  22]
+ [  0  28  21 ...  12  23  21]]"
+265,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918976_16_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918976_16_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 33 37 ... 39 25 24]
+ [ 0 28 44 ... 33 34 51]
+ ...
+ [ 0 22 24 ... 16 30 20]
+ [ 0 17 19 ...  7 21 21]
+ [ 0 26 25 ... 17 10 12]]"
+266,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155917839_43_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155917839_43_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 18 19 ... 17 23 20]
+ [ 0 20 18 ... 22 15 27]
+ ...
+ [ 0 29 22 ... 28 19 16]
+ [ 0 16 23 ... 19 19 21]
+ [ 0 17 26 ... 21 24 23]]"
+267,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155919099_19_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155919099_19_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 31 19 ... 27 17 28]
+ [ 0 24 12 ... 22 21 20]
+ ...
+ [ 0 25  7 ... 23 13 12]
+ [ 0 11 26 ... 16 23 27]
+ [ 0 20 23 ... 21 16 22]]"
+268,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155917109_42_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155917109_42_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 19  8 ... 19 22 14]
+ [ 0 21 15 ... 19 21 26]
+ ...
+ [ 0 24 10 ... 20 21 18]
+ [ 0 25 18 ... 12 40 23]
+ [ 0 19 19 ... 23 24 11]]"
+269,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918240_36_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918240_36_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 19 11 ... 15  8 11]
+ [ 0  9 17 ... 18 23 12]
+ ...
+ [ 0 14 23 ... 13 25 20]
+ [ 0 18 25 ... 16 19 20]
+ [ 0 22 25 ... 25 20 21]]"
+270,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155920252_26_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155920252_26_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 23 34 ... 25 13 36]
+ [ 0 46 56 ... 24 22 31]
+ ...
+ [ 0 10 18 ... 14 29 21]
+ [ 0 14 16 ... 14 10 19]
+ [ 0 27 18 ... 12 18 15]]"
+271,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918468_27_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155918468_27_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 24 17 ... 15 24 23]
+ [ 0 14 12 ... 16 20 24]
+ ...
+ [ 0 21 20 ... 34 21 17]
+ [ 0 24 27 ... 16 19 24]
+ [ 0 21 27 ... 12 21 18]]"
+272,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155919926_2_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155919926_2_S173718_I344608.dcm,"[[  0   0   0 ...   0   0   0]
+ [  0  76 109 ...  81 112  82]
+ [  0  53  69 ...  92 113  83]
+ ...
+ [  0  24  12 ...  25  16  23]
+ [  0  20  19 ...  19  18  27]
+ [  0  22  12 ...  20  18  15]]"
+273,116_S_4338,ADNI 2,M,72.6,AD,3,ADNI2 Year 1 Visit,11/07/2012,81.6,24.0,4.0,1.0,ADNI_gre_field_mapping,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155920517_10_S173718_I344608.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4338/ADNI_gre_field_mapping/2012-11-07_13_34_27.0/S173718/ADNI_116_S_4338_MR_ADNI_gre_field_mapping_br_raw_20121107155920517_10_S173718_I344608.dcm,"[[ 0  0  0 ...  0  0  0]
+ [ 0 25 19 ... 14 40 32]
+ [ 0 44 38 ... 32 40 32]
+ ...
+ [ 0 17 10 ... 23 21 18]
+ [ 0 14 20 ... 21 15 12]
+ [ 0 14 21 ... 19 19 16]]"
+274,116_S_4625,ADNI 2,M,101.7,AD,4,ADNI2 Year 1 Visit,4/04/2013,64.9,19.0,2.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4625_MR_localizer__br_raw_20130404142111207_3_S185946_I365504.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4625/localizer/2013-04-04_12_35_49.0/S185946/ADNI_116_S_4625_MR_localizer__br_raw_20130404142111207_3_S185946_I365504.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 1 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+275,116_S_4625,ADNI 2,M,101.7,AD,4,ADNI2 Year 1 Visit,4/04/2013,64.9,19.0,2.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4625_MR_localizer__br_raw_20140425161635439_3_S217121_I422614.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4625/localizer/2014-04-25_13_00_43.0/S217121/ADNI_116_S_4625_MR_localizer__br_raw_20140425161635439_3_S217121_I422614.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 1 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+276,116_S_4625,ADNI 2,M,96.6,AD,4,ADNI2 Year 2 Visit,4/25/2014,65.9,20.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4625_MR_localizer__br_raw_20130404142111207_3_S185946_I365504.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4625/localizer/2013-04-04_12_35_49.0/S185946/ADNI_116_S_4625_MR_localizer__br_raw_20130404142111207_3_S185946_I365504.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 1 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+277,116_S_4625,ADNI 2,M,96.6,AD,4,ADNI2 Year 2 Visit,4/25/2014,65.9,20.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4625_MR_localizer__br_raw_20140425161635439_3_S217121_I422614.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4625/localizer/2014-04-25_13_00_43.0/S217121/ADNI_116_S_4625_MR_localizer__br_raw_20140425161635439_3_S217121_I422614.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 1 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+278,116_S_4732,ADNI 2,M,80.9,AD,3,ADNI2 Year 1 Visit,6/20/2013,78.4,18.0,9.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_116_S_4732_MR_localizer__br_raw_20130621092131581_3_S192960_I377586.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/116_S_4732/localizer/2013-06-20_13_07_34.0/S192960/ADNI_116_S_4732_MR_localizer__br_raw_20130621092131581_3_S192960_I377586.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 1 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+279,128_S_0266,ADNI 1,M,72.6,AD,4,ADNI1/GO Month 12,4/12/2007,86.6,25.0,2.0,1.0,LOC,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_128_S_0266_MR_LOC__br_raw_20080418223623015_3_S48987_I103182.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/128_S_0266/LOC/2008-04-18_14_22_12.0/S48987/ADNI_128_S_0266_MR_LOC__br_raw_20080418223623015_3_S48987_I103182.dcm,"[[0 0 0 ... 0 0 0]
+ [0 2 1 ... 3 5 0]
+ [0 2 1 ... 4 3 0]
+ ...
+ [0 5 4 ... 1 1 0]
+ [0 2 1 ... 3 2 0]
+ [0 0 0 ... 0 0 0]]"
+280,128_S_0266,ADNI 1,M,72.6,AD,4,ADNI1/GO Month 12,4/12/2007,86.6,25.0,2.0,1.0,LOC,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_128_S_0266_MR_LOC__br_raw_20070413012620266_3_S29627_I49031.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/128_S_0266/LOC/2007-04-12_10_39_45.0/S29627/ADNI_128_S_0266_MR_LOC__br_raw_20070413012620266_3_S29627_I49031.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 4 ... 2 0 0]
+ [0 0 3 ... 1 0 0]
+ ...
+ [0 0 3 ... 2 0 0]
+ [0 0 1 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+281,128_S_0266,ADNI 1,M,71.7,AD,4,ADNI1/GO Month 24,4/18/2008,87.7,15.0,3.0,1.0,LOC,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_128_S_0266_MR_LOC__br_raw_20080418223623015_3_S48987_I103182.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/128_S_0266/LOC/2008-04-18_14_22_12.0/S48987/ADNI_128_S_0266_MR_LOC__br_raw_20080418223623015_3_S48987_I103182.dcm,"[[0 0 0 ... 0 0 0]
+ [0 2 1 ... 3 5 0]
+ [0 2 1 ... 4 3 0]
+ ...
+ [0 5 4 ... 1 1 0]
+ [0 2 1 ... 3 2 0]
+ [0 0 0 ... 0 0 0]]"
+282,128_S_0266,ADNI 1,M,71.7,AD,4,ADNI1/GO Month 24,4/18/2008,87.7,15.0,3.0,1.0,LOC,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_128_S_0266_MR_LOC__br_raw_20070413012620266_3_S29627_I49031.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/128_S_0266/LOC/2007-04-12_10_39_45.0/S29627/ADNI_128_S_0266_MR_LOC__br_raw_20070413012620266_3_S29627_I49031.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 4 ... 2 0 0]
+ [0 0 3 ... 1 0 0]
+ ...
+ [0 0 3 ... 2 0 0]
+ [0 0 1 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+283,128_S_0517,ADNI 1,M,73.9,AD,3,ADNI1/GO Month 12,6/05/2007,83.0,14.0,1.0,1.0,LOC,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_128_S_0517_MR_LOC__br_raw_20070607195101718_3_S33234_I56372.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/128_S_0517/LOC/2007-06-05_10_30_01.0/S33234/ADNI_128_S_0517_MR_LOC__br_raw_20070607195101718_3_S33234_I56372.dcm,"[[0 0 0 ... 0 0 0]
+ [0 3 2 ... 1 0 0]
+ [0 4 4 ... 2 1 0]
+ ...
+ [0 2 3 ... 3 4 0]
+ [0 3 5 ... 0 2 0]
+ [0 0 0 ... 0 0 0]]"
+284,128_S_0611,ADNI 1,F,64.9,MCI,4,ADNI1/GO Month 12,6/07/2007,73.0,28.0,2.0,1.0,LOC,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_128_S_0611_MR_LOC__br_raw_20070607201351718_3_S33242_I56386.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/128_S_0611/LOC/2007-06-07_10_52_41.0/S33242/ADNI_128_S_0611_MR_LOC__br_raw_20070607201351718_3_S33242_I56386.dcm,"[[0 0 0 ... 0 0 0]
+ [0 1 1 ... 6 4 0]
+ [0 1 1 ... 4 4 0]
+ ...
+ [0 3 3 ... 1 0 0]
+ [0 2 2 ... 2 0 0]
+ [0 0 0 ... 0 0 0]]"
+285,128_S_0947,ADNI 1,F,61.2,MCI,4,ADNI1/GO Month 12,11/02/2007,83.8,22.0,1.0,1.0,LOC,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_128_S_0947_MR_LOC__br_raw_20071102144616062_3_S42241_I80595.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/128_S_0947/LOC/2007-11-02_10_09_29.0/S42241/ADNI_128_S_0947_MR_LOC__br_raw_20071102144616062_3_S42241_I80595.dcm,"[[0 0 0 ... 0 0 0]
+ [0 3 6 ... 7 9 0]
+ [0 4 4 ... 7 3 0]
+ ...
+ [0 8 6 ... 5 0 0]
+ [0 4 6 ... 6 4 0]
+ [0 0 0 ... 0 0 0]]"
+286,128_S_1088,ADNI 1,M,61.7,MCI,3,ADNI1/GO Month 12,2/04/2008,89.2,25.0,3.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_128_S_1088_MR_Localizer__br_raw_20080206145852203_3_S45404_I89695.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/128_S_1088/Localizer/2008-02-04_16_19_46.0/S45404/ADNI_128_S_1088_MR_Localizer__br_raw_20080206145852203_3_S45404_I89695.dcm,"[[0 0 0 ... 0 0 0]
+ [0 5 4 ... 2 2 0]
+ [0 3 2 ... 3 3 0]
+ ...
+ [0 3 2 ... 5 5 0]
+ [0 3 2 ... 2 4 0]
+ [0 0 0 ... 0 0 0]]"
+287,128_S_1088,ADNI 1,M,61.7,MCI,3,ADNI1/GO Month 12,2/04/2008,89.2,25.0,3.0,1.0,LOC,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_128_S_1088_MR_LOC__br_raw_20080206145242750_3_S45405_I89698.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/128_S_1088/LOC/2008-02-04_14_49_25.0/S45405/ADNI_128_S_1088_MR_LOC__br_raw_20080206145242750_3_S45405_I89698.dcm,"[[0 0 0 ... 0 0 0]
+ [0 1 4 ... 3 4 0]
+ [0 2 4 ... 3 1 0]
+ ...
+ [0 3 4 ... 1 4 0]
+ [0 1 1 ... 2 1 0]
+ [0 0 0 ... 0 0 0]]"
+288,128_S_1148,ADNI 1,F,66.5,MCI,4,ADNI1/GO Month 24,9/24/2009,72.6,20.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_128_S_1148_MR_Localizer__br_raw_20090929170704593_3_S74325_I155882.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/128_S_1148/Localizer/2009-09-24_15_19_06.0/S74325/ADNI_128_S_1148_MR_Localizer__br_raw_20090929170704593_3_S74325_I155882.dcm,"[[0 0 0 ... 0 0 0]
+ [0 2 2 ... 2 4 0]
+ [0 2 2 ... 1 3 0]
+ ...
+ [0 2 3 ... 2 3 0]
+ [0 3 3 ... 1 2 0]
+ [0 0 0 ... 0 0 0]]"
+289,128_S_1148,ADNI 1,F,66.5,MCI,4,ADNI1/GO Month 24,10/22/2009,72.7,20.0,1.0,1.0,LOC,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_128_S_1148_MR_LOC__br_raw_20091110123007732_3_S75446_I157599.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/128_S_1148/LOC/2009-10-22_15_39_12.0/S75446/ADNI_128_S_1148_MR_LOC__br_raw_20091110123007732_3_S75446_I157599.dcm,"[[0 0 0 ... 0 0 0]
+ [0 2 1 ... 2 0 0]
+ [0 1 1 ... 0 1 0]
+ ...
+ [0 0 2 ... 1 1 0]
+ [0 0 1 ... 2 1 0]
+ [0 0 0 ... 0 0 0]]"
+290,128_S_1407,ADNI 2,F,49.0,MCI,4,ADNI2 Year 1 Visit,2/05/2013,80.4,23.0,2.0,1.0,LOC,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_128_S_1407_MR_LOC__br_raw_20140109141959192_3_S209875_I404286.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/128_S_1407/LOC/2014-01-07_16_17_26.0/S209875/ADNI_128_S_1407_MR_LOC__br_raw_20140109141959192_3_S209875_I404286.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 1 ... 0 2 0]
+ [0 0 1 ... 0 0 0]
+ ...
+ [0 2 0 ... 3 0 0]
+ [0 1 0 ... 2 4 0]
+ [0 0 0 ... 0 0 0]]"
+291,128_S_1407,ADNI 2,F,49.0,MCI,4,ADNI2 Year 1 Visit,2/05/2013,80.4,23.0,2.0,1.0,LOC,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_128_S_1407_MR_LOC__br_raw_20130211124751697_3_S181909_I358640.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/128_S_1407/LOC/2013-02-05_15_16_48.0/S181909/ADNI_128_S_1407_MR_LOC__br_raw_20130211124751697_3_S181909_I358640.dcm,"[[0 0 0 ... 0 0 0]
+ [0 2 3 ... 3 2 0]
+ [0 2 4 ... 1 0 0]
+ ...
+ [0 1 2 ... 1 0 0]
+ [0 0 4 ... 1 1 0]
+ [0 0 0 ... 0 0 0]]"
+292,128_S_1407,ADNI 2,F,47.6,MCI,4,ADNI2 Year 2 Visit,1/07/2014,81.3,17.0,1.0,1.0,LOC,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_128_S_1407_MR_LOC__br_raw_20140109141959192_3_S209875_I404286.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/128_S_1407/LOC/2014-01-07_16_17_26.0/S209875/ADNI_128_S_1407_MR_LOC__br_raw_20140109141959192_3_S209875_I404286.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 1 ... 0 2 0]
+ [0 0 1 ... 0 0 0]
+ ...
+ [0 2 0 ... 3 0 0]
+ [0 1 0 ... 2 4 0]
+ [0 0 0 ... 0 0 0]]"
+293,128_S_1407,ADNI 2,F,47.6,MCI,4,ADNI2 Year 2 Visit,1/07/2014,81.3,17.0,1.0,1.0,LOC,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_128_S_1407_MR_LOC__br_raw_20130211124751697_3_S181909_I358640.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/128_S_1407/LOC/2013-02-05_15_16_48.0/S181909/ADNI_128_S_1407_MR_LOC__br_raw_20130211124751697_3_S181909_I358640.dcm,"[[0 0 0 ... 0 0 0]
+ [0 2 3 ... 3 2 0]
+ [0 2 4 ... 1 0 0]
+ ...
+ [0 1 2 ... 1 0 0]
+ [0 0 4 ... 1 1 0]
+ [0 0 0 ... 0 0 0]]"
+294,128_S_1430,ADNI 1,F,49.5,AD,4,ADNI1/GO Month 24,10/01/2009,85.6,12.0,3.0,2.0,LOC,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_128_S_1430_MR_LOC__br_raw_20091023004149514_3_S74395_I155995.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/128_S_1430/LOC/2009-10-01_16_00_13.0/S74395/ADNI_128_S_1430_MR_LOC__br_raw_20091023004149514_3_S74395_I155995.dcm,"[[0 0 0 ... 0 0 0]
+ [0 1 1 ... 1 0 0]
+ [0 1 1 ... 1 1 0]
+ ...
+ [0 1 0 ... 2 4 0]
+ [0 1 0 ... 1 2 0]
+ [0 0 0 ... 0 0 0]]"
+295,128_S_4772,ADNI 2,F,63.5,AD,3,ADNI2 Year 1 Visit,7/17/2013,79.9,23.0,4.0,1.0,LOC,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_128_S_4772_MR_LOC__br_raw_20130718134043766_3_S195572_I381369.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/128_S_4772/LOC/2013-07-17_17_07_01.0/S195572/ADNI_128_S_4772_MR_LOC__br_raw_20130718134043766_3_S195572_I381369.dcm,"[[0 0 0 ... 0 0 0]
+ [0 1 1 ... 0 0 0]
+ [0 0 0 ... 0 0 1]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 1 ... 0 0 0]
+ [0 0 0 ... 0 0 1]]"
+296,128_S_4774,ADNI 2,M,76.2,AD,3,ADNI2 Year 1 Visit,7/23/2013,87.0,17.0,1.0,1.0,LOC,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_128_S_4774_MR_LOC__br_raw_20130729140959001_3_S196813_I382933.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/128_S_4774/LOC/2013-07-23_17_14_46.0/S196813/ADNI_128_S_4774_MR_LOC__br_raw_20130729140959001_3_S196813_I382933.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 1 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+297,135_S_4657,ADNI 2,F,71.0,AD,4,ADNI2 Year 1 Visit,4/29/2013,72.7,14.0,2.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_135_S_4657_MR_localizer__br_raw_20130429115743293_3_S188227_I369135.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/135_S_4657/localizer/2013-04-29_10_45_57.0/S188227/ADNI_135_S_4657_MR_localizer__br_raw_20130429115743293_3_S188227_I369135.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 1]]"
+298,135_S_4657,ADNI 2,F,71.0,AD,4,ADNI2 Year 1 Visit,4/29/2013,72.7,14.0,2.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_135_S_4657_MR_localizer__br_raw_20140428142222266_3_S217204_I422734.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/135_S_4657/localizer/2014-04-28_12_50_56.0/S217204/ADNI_135_S_4657_MR_localizer__br_raw_20140428142222266_3_S217204_I422734.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+299,135_S_4657,ADNI 2,F,72.3,AD,4,ADNI2 Year 2 Visit,4/28/2014,73.7,11.0,2.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_135_S_4657_MR_localizer__br_raw_20130429115743293_3_S188227_I369135.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/135_S_4657/localizer/2013-04-29_10_45_57.0/S188227/ADNI_135_S_4657_MR_localizer__br_raw_20130429115743293_3_S188227_I369135.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 1]]"
+300,135_S_4657,ADNI 2,F,72.3,AD,4,ADNI2 Year 2 Visit,4/28/2014,73.7,11.0,2.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_135_S_4657_MR_localizer__br_raw_20140428142222266_3_S217204_I422734.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/135_S_4657/localizer/2014-04-28_12_50_56.0/S217204/ADNI_135_S_4657_MR_localizer__br_raw_20140428142222266_3_S217204_I422734.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+301,135_S_4863,ADNI 2,M,73.1,AD,4,ADNI2 Year 1 Visit,8/21/2013,71.1,25.0,4.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_135_S_4863_MR_localizer__br_raw_20130821125132719_3_S198527_I386437.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/135_S_4863/localizer/2013-08-21_11_08_50.0/S198527/ADNI_135_S_4863_MR_localizer__br_raw_20130821125132719_3_S198527_I386437.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 1 0 1]
+ [0 0 1 ... 0 0 1]
+ ...
+ [0 0 0 ... 0 1 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+302,135_S_5015,ADNI 2,F,75.4,AD,4,ADNI2 Year 1 Visit,11/25/2013,79.0,18.0,3.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_135_S_5015_MR_localizer__br_raw_20131125130844439_3_S206713_I399471.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/135_S_5015/localizer/2013-11-25_11_46_24.0/S206713/ADNI_135_S_5015_MR_localizer__br_raw_20131125130844439_3_S206713_I399471.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+303,137_S_0994,ADNI 2,F,68.0,MCI,4,ADNI2 Year 3 Visit,12/10/2014,63.3,16.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_137_S_0994_MR_localizer__br_raw_20141210165235325_3_S242835_I461112.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/137_S_0994/localizer/2014-12-10_12_52_28.0/S242835/ADNI_137_S_0994_MR_localizer__br_raw_20141210165235325_3_S242835_I461112.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+304,141_S_0915,ADNI 2,F,57.6,MCI,4,ADNI2 Year 1 Visit,11/16/2012,86.8,18.0,1.0,3.0,LOCALIZER,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_141_S_0915_MR_localizer__br_raw_20121120154825257_3_S175176_I347474.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/141_S_0915/LOCALIZER/2012-11-16_12_53_10.0/S175176/ADNI_141_S_0915_MR_localizer__br_raw_20121120154825257_3_S175176_I347474.dcm,"[[0 3 2 ... 2 1 2]
+ [0 2 2 ... 2 1 1]
+ [0 1 2 ... 3 2 2]
+ ...
+ [0 4 2 ... 3 1 4]
+ [0 4 2 ... 2 1 4]
+ [0 4 2 ... 2 1 3]]"
+305,141_S_0915,ADNI 2,F,57.6,MCI,4,ADNI2 Year 1 Visit,11/16/2012,86.8,18.0,1.0,3.0,LOCALIZER,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_141_S_0915_MR_LOCALIZER__br_raw_20121120154830032_3_S175179_I347454.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/141_S_0915/LOCALIZER/2012-11-16_12_52_20.0/S175179/ADNI_141_S_0915_MR_LOCALIZER__br_raw_20121120154830032_3_S175179_I347454.dcm,"[[0 4 2 ... 2 2 3]
+ [0 4 2 ... 2 1 2]
+ [0 4 2 ... 2 1 1]
+ ...
+ [0 2 1 ... 2 3 4]
+ [0 3 1 ... 2 3 5]
+ [0 4 1 ... 2 3 4]]"
+306,141_S_0982,ADNI 1,F,88.9,MCI,3,ADNI1/GO Month 12,11/13/2007,81.4,24.0,1.0,1.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_141_S_0982_MR_Localizer__br_raw_20071114111213377_3_S42655_I81991.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/141_S_0982/Localizer/2007-11-13_15_29_33.0/S42655/ADNI_141_S_0982_MR_Localizer__br_raw_20071114111213377_3_S42655_I81991.dcm,"[[0 3 2 ... 3 3 2]
+ [0 3 2 ... 3 3 2]
+ [0 3 1 ... 3 3 2]
+ ...
+ [0 4 2 ... 4 2 3]
+ [0 4 1 ... 3 2 3]
+ [0 4 2 ... 3 3 2]]"
+307,141_S_1004,ADNI 2,F,78.9,MCI,4,ADNI2 Year 2 Visit,11/20/2013,81.1,17.0,2.0,2.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_141_S_1004_MR_localizer__br_raw_20131127101022008_3_S206879_I399733.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/141_S_1004/localizer/2013-11-20_16_32_20.0/S206879/ADNI_141_S_1004_MR_localizer__br_raw_20131127101022008_3_S206879_I399733.dcm,"[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]"
+308,141_S_1137,ADNI 1,F,56.7,AD,3,ADNI1/GO Month 12,2/12/2008,82.8,17.0,2.0,2.0,Localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_141_S_1137_MR_Localizer__br_raw_20080429161056881_3_S49444_I104219.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/141_S_1137/Localizer/2008-02-12_16_12_08.0/S49444/ADNI_141_S_1137_MR_Localizer__br_raw_20080429161056881_3_S49444_I104219.dcm,"[[0 2 3 ... 3 3 2]
+ [0 1 2 ... 3 4 3]
+ [0 1 1 ... 4 5 3]
+ ...
+ [0 5 4 ... 3 0 1]
+ [0 5 4 ... 3 1 1]
+ [0 4 4 ... 2 2 2]]"
+309,941_S_1311,ADNI 1,M,60.3,MCI,4,ADNI1/GO Month 24,3/31/2009,71.3,27.0,1.0,1.0,localizer,Original,Acquisition Plane=AXIAL;Weighting=T1,Brain,ADNI_941_S_1311_MR_localizer__br_raw_20090401085408860_3_S65347_I140247.dcm,/Users/ariadnapuigventos/Desktop/data/ADNI_4/941_S_1311/localizer/2009-03-31_14_34_44.0/S65347/ADNI_941_S_1311_MR_localizer__br_raw_20090401085408860_3_S65347_I140247.dcm,"[[0 4 5 ... 2 2 2]
+ [0 1 3 ... 2 2 2]
+ [0 2 3 ... 0 2 3]
+ ...
+ [0 8 8 ... 2 0 3]
+ [0 7 7 ... 3 1 2]
+ [0 6 6 ... 3 1 2]]"
